@@ -4,6 +4,9 @@
 import docx
 import re
 import os
+import csv
+import json
+
 
 def getword():
     dict = {}
@@ -18,8 +21,21 @@ def getword():
             result_list = re.findall(r'[a-zA-Z]+', txt)  # 正则表达式提取出英文单词
             for key in result_list:
                 dict[key] = dict.get(key, 0) + 1  # 把出现的单词放入字典，按出现次数进行词频统计
+
+    # dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)#字典按值排序（转为元组）
     print(dict)  # 查看词频
-    print(len(dict))  # 查看单词总数
+    print('总共有' + str(len(dict)) + '个单词')  # 查看单词总数
+    return dict
+
+
+# 以json格式存入test.txt
+def save():
+    dict = getword()
+    js = json.dumps(dict)
+    file = open('test.txt', 'w')
+    file.write(js)
+    file.close()
 
 
 getword()
+# save()

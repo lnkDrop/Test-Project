@@ -3,13 +3,16 @@
 # 获取四六级真题的单词，和词频的统计（字典方式）
 import docx
 import re
-
+import os
 
 def getword():
     dict = {}
-    for i in range(2):
-        cd = r"D:/Project/真题数据源/" + str(i + 1) + ".docx"
-        f = docx.Document(cd)  # 读取四六级真题
+    file_path = []
+    path = r"D:/Project/真题数据源/"
+    for filename in os.listdir(path):  # 获取path下所有文件的路径
+        file_path.append((os.path.join(path, filename)))
+    for i in range(len(file_path)):
+        f = docx.Document(file_path[i])  # 读取四六级真题
         for para in f.paragraphs:
             txt = para.text
             result_list = re.findall(r'[a-zA-Z]+', txt)  # 正则表达式提取出英文单词

@@ -4,10 +4,12 @@
 【含义】：尖,酸
 【来源】：-ac-来源于拉丁语动词aceo, acere, -, -(尖,酸); -acu-来源于拉丁语动词acu.o, acu.ere, acu.i, acut.us(使尖锐); -acr-和-acer-来源于希腊语形容词akros(最高的,末端的)和拉丁语形容词acer, acris(尖利的,辛辣的); -acet-来源于拉丁语名词acetum, aceti, n(醋)。均可追溯至原始印欧语ak-(尖,锋利)。
 【同源】：acid, aciform, acme, acupuncture, acute
+
 【词根】：-aer-
 【含义】：空气
 【来源】：来源于希腊语aer(空气)。
 【同源】：aerial, aerology, aeronaut, aeronautics, aeroplane
+
 【词根】：-agr-
 【含义】：田地
 【来源】：来源于拉丁语名词ager, agri, m(田地)。
@@ -961,29 +963,46 @@
 【同源】ably, acceptably, accountably, accusably, adaptably, admirably
 【词根】词缀：abort-, aborti-
 来源及含义：Latin: miscarry, pass away, perish by an untimely birth
-【相关】
-Related "birth, born, childbirth, offspring" words: 
-feto-;
-lochio-;
-nasc-, nat-;
-proli-;
-toco-, toko-.
+【相关】
+
+Related "birth, born, childbirth, offspring" words: 
+
+feto-;
+
+lochio-;
+
+nasc-, nat-;
+
+proli-;
+
+toco-, toko-.
+
 【同源】abort, aborticidal, aborticide, abortifacient, abortion, abortional
 【词根】词缀：aboulo-, aboul-, abulo-, abul-
 来源及含义：Greek: irresolution, indecision, loss or defect of the ability to make decisions
 【同源】aboulia, aboulias, aboulic, aboulomania, abulia, paraboulia
 【词根】词缀：abysso-, abyss-, abys-
 来源及含义：Greek > Latin: Greek [abussoz], a-, "no" plus bussos, "bottom" through Latin [abyssus], "no bottom, bottomless"
-【相关】Inter-related  cross references, directly or indirectly, involving the "sea" and  the "ocean" bodies of water: 
-Atlantic;
-batho-, bathy- (depth);
-bentho- (deep, depth);
-halio-, halo- (salt or "the sea");  
-mare, mari- (sea);  
-necto-, nekto- (swimming);  
-oceano-;  
-pelago- (sea, ocean);  
-plankto- (drifting); 
+【相关】Inter-related  cross references, directly or indirectly, involving the "sea" and  the "ocean" bodies of water: 
+
+Atlantic;
+
+batho-, bathy- (depth);
+
+bentho- (deep, depth);
+
+halio-, halo- (salt or "the sea");  
+
+mare, mari- (sea);  
+
+necto-, nekto- (swimming);  
+
+oceano-;  
+
+pelago- (sea, ocean);  
+
+plankto- (drifting); 
+
 thalasso- (sea, ocean).
 【同源】abysm, abysmal, abysmally, abyss, abyssal, abyssal plains
 【词根】词缀：-ac
@@ -999,11 +1018,16 @@ thalasso- (sea, ocean).
 【同源】acanth, acantha, acanthaceous, acanthamebiasis, acanthamoeba, acanthesthesia
 【词根】词缀：acaro-, acar-, acari-, acarin-
 来源及含义：Greek > Latin: "tiny spider", mite[s]  "itch"; ticks
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
-arachno-;
-arano-;
-mite, mites.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
+
+arachno-;
+
+arano-;
+
+mite, mites.
+
 【同源】Acarapis, acararian, Acari, acarian, acariasis, acaricidal
 【词根】词缀：accipit-
 来源及含义：Latin: bird of prey, a hawk; hawk-like
@@ -1020,25 +1044,41 @@ mite, mites.
 【词根】词缀：acerb-, acerbo-; acri-, acrid-
 来源及含义：Latin: bitter, sharp, sour, stinging
 【相关】Formed from a blend of Latin acer- (feminine acris, neuter acre) which are both related to Latin acus, "needle"; acies, "sharp edge, point, the front of an army, line of battle, battle array"; and acuere, "to sharpen".
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
-aceto-;
-acid-;
-acies- (not "sour");
-acuto- (not "sour");
-oxy-;
-pung- (not "sour").
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
+
+aceto-;
+
+acid-;
+
+acies- (not "sour");
+
+acuto- (not "sour");
+
+oxy-;
+
+pung- (not "sour").
+
 【同源】acerbate, acerbic, acerbity, acerbophobia, acerophobia, acerose
 【词根】词缀：aceto-, acet-; relating to acetic acid derivatives
 来源及含义：Latin: vinegar; sour, to be sour
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
-acerb-;
-acid-;
-acies- (not "sour");
-acuto- (not "sour");
-oxy-;
-pung- (not "sour").
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
+
+acerb-;
+
+acid-;
+
+acies- (not "sour");
+
+acuto- (not "sour");
+
+oxy-;
+
+pung- (not "sour").
+
 【同源】acetal, acetate, acetic, acetic, acetification, acetifier
 【词根】词缀：acetyl-
 来源及含义：Latin: derived from aceto- plus the suffix -yl; used in naming chemical radicals
@@ -1052,33 +1092,54 @@ pung- (not "sour").
 【同源】achluophobia, Achlya, achlys
 【词根】词缀：acid-, acidi-, acido-, -acidity
 来源及含义：Latin: sour [sharp]
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
-acerb-;
-acies- (not "sour");
-acuto- (not "sour");
-oxy-;
-pung- (not "sour").
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
+
+acerb-;
+
+acies- (not "sour");
+
+acuto- (not "sour");
+
+oxy-;
+
+pung- (not "sour").
+
 【同源】acid, acid rain, acid test, acidalbumin, acidaminuria, acidemia
 【词根】词缀：acies-, aci-, acicul-
 来源及含义：Latin: a sharp edge or point; mental acuity, sharpness of vision
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
-acerb-;
-aceto-;
-acid-;
-acuto- (not "sour");
-oxy-;
-pung- (not "sour").
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
+
+acerb-;
+
+aceto-;
+
+acid-;
+
+acuto- (not "sour");
+
+oxy-;
+
+pung- (not "sour").
+
 【同源】acicula, acicular, acicular ice, acicularity, acicularly, aciculate
 【词根】词缀：acin-, acini-
 来源及含义：Latin: grape, grapes in a cluster
-【相关】
-Cross references of word families that are derived directly, or indirectly, from: "grape, grapes": 
-racem-;
-staphyl-;
-uveo-;
-uvul-.
+【相关】
+
+Cross references of word families that are derived directly, or indirectly, from: "grape, grapes": 
+
+racem-;
+
+staphyl-;
+
+uveo-;
+
+uvul-.
+
 【同源】acinic, aciniform, acinitis, acinose, acinotubular, acinous
 【词根】词缀：acinac-
 来源及含义：Latin: a kind of short sword or scimiter
@@ -1102,10 +1163,14 @@ uvul-.
 【同源】acognosia, acology
 【词根】词缀：acous-, acou-, acouo-, acoustico-, acouto-, acousti-, -acousia, -acousis, -acoustical, acu-, -acusis-, -acusia
 来源及含义：Greek: akoustikos, to hear, hearing; to listen, listening
-【相关】
-Related "hear, hearing; listen, listening" units: 
-audio-;
-ausculto-.
+【相关】
+
+Related "hear, hearing; listen, listening" units: 
+
+audio-;
+
+ausculto-.
+
 【同源】acouasm, acoubuoy, acouesthesia, acoumeter, acouophone, acouophonia
 【词根】词缀：-acrasy, -acrasia, -acratia
 来源及含义：Greek: suffix; weakness, weak; powerless; incontinence, lack of control; impotent
@@ -1125,14 +1190,22 @@ ausculto-.
 【同源】Actiornis, Actitis macularia, actophile, actophilous, aktios, aktites
 【词根】词缀：acuto-, acut-, acuti-, acu-, -cusis; also, agu-
 来源及含义：Latin: sharp, to sharpen, point; needle, pin
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
-acerb-;
-aceto-;
-acid-;
-acies- (not "sour");
-oxy-;
-pung- (not "sour").
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "sour, sharp": 
+
+acerb-;
+
+aceto-;
+
+acid-;
+
+acies- (not "sour");
+
+oxy-;
+
+pung- (not "sour").
+
 【同源】acicula, acicular, acicular ice, aciculate, aciculate, aciculiform25 26 27 28 29 30  
 
 
@@ -1159,16 +1232,26 @@ pung- (not "sour").
 【同源】adenalgia, adendric, adenectomy, adenectopia, adenia, adenic
 【词根】词缀：adipo-, adip-, adipos-
 来源及含义：Latin: fat, fatty; lard; of or pertaining to fat; fleshy
-【相关】Other related units of fat words: 
-lard;
-lipo-;
-obeso-;
-oleo-; 
-omento-;
-pimelo-;
-pio-;
-sebo-;
-steato-.
+【相关】Other related units of fat words: 
+
+lard;
+
+lipo-;
+
+obeso-;
+
+oleo-; 
+
+omento-;
+
+pimelo-;
+
+pio-;
+
+sebo-;
+
+steato-.
+
 【同源】adipal, adipate, adipectomy, adipescent, adipic, adipis
 【词根】词缀：adreno-, adren-, -adrenal-
 来源及含义：Latin: a gland or the glands near the kidneys: ad-, "near" plus ren[es], "kidneys"
@@ -1176,28 +1259,46 @@ steato-.
 【同源】adrenal, adrenalectomize, adrenalectomy, adrenaline, adrenalism, adrenalitis
 【词根】词缀：aego-, aeg-; ego-, eg-
 来源及含义：Greek > Latin: goat
-【相关】
-Related goat-word units: 
-capri-;
-hirco-;
-tragico-.
+【相关】
+
+Related goat-word units: 
+
+capri-;
+
+hirco-;
+
+tragico-.
+
 【同源】aegagrus, Aegeus, aegicrania, aegilops, Aegina, aegis
 【词根】词缀：aello-
 来源及含义：Greek: stormy wind, whirlwind; from Greek mythology, Aëllo, a harpy; whose name literally means, "Stormswift"
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aeolo-;
-aero-;
-anemo-;
-atmo-;
-austro-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aeolo-;
+
+aero-;
+
+anemo-;
+
+atmo-;
+
+austro-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】Aello, aelophile, aelophilous, aelophily, aeolation, aeolian deposit26 27 28 29 30 31  
 
 
@@ -1205,77 +1306,127 @@ zephyro-.
 27 28 29 30 31 32 
 【词根】词缀：aeluro-, aelur-, ailuro-, ailouro-, ailur-, eluro-
 来源及含义：Greek: cat, cats
-【相关】Cross references of word families that are related directly, or indirectly, to: "cat": 
-cat;
-feli-, felin-;
-galeo-;
-gato-.
+【相关】Cross references of word families that are related directly, or indirectly, to: "cat": 
+
+cat;
+
+feli-, felin-;
+
+galeo-;
+
+gato-.
+
 【同源】Aeluroid, aeluromancy, aeluromania, aelurophile, aelurophilic, aelurophobe
 【词根】词缀：aeolo-, aeol-
 来源及含义：Latin: air, wind; rapid, quick
 【相关】The combining form aeolo- is used to denote musical-wind instruments; however, it also refers to "air" or "wind". This element comes from Aeolus; "the god of winds" in Greek and Latin mythology, with the literal Greek meaning of "rapid, quick".
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aello-;
-aero-;
-anemo-;
-atmo-;
-austro-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aello-;
+
+aero-;
+
+anemo-;
+
+atmo-;
+
+austro-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】aeolation, aeolian deposit, aeolian
 【词根】词缀：aero-, aer-, aeri-
 来源及含义：Greek: air, mist, wind
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aello-;
-aeolo-;
-anemo-;
-atmo-;
-austro-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aello-;
+
+aeolo-;
+
+anemo-;
+
+atmo-;
+
+austro-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】aerate, aerated, aeration, aerator, aerenchyma, aerial
 【词根】词缀：aesth-, esth-, aesthe-, esthe-, aesthesio-, esthesio-, aesthesia-, -esthesia, -aesthetic, -esthetic, -aesthetical, -esthetical, -aesthetically, -esthetically
 来源及含义：Greek: feeling, sensation, perception
-【相关】
-Related-word units meaning feeling: 
-senso-;
-pass-, pati-;
-patho-.
+【相关】
+
+Related-word units meaning feeling: 
+
+senso-;
+
+pass-, pati-;
+
+patho-.
+
 【同源】acanthesthesia, acatamathesia, acenesthesia, acmesthesia, acmesthetic, acouesthesia
 【词根】词缀：aevum, evum; etern-; aeternus
 来源及含义：Latin: age; space of time, ever, always; eternity
-【相关】
-Related "time" units: 
-archaeo-, archeo-;
-Calendars;
-chrono-;
-horo-;
-pre-;
-Quotes: Time;
-tempo-.
+【相关】
+
+Related "time" units: 
+
+archaeo-, archeo-;
+
+Calendars;
+
+chrono-;
+
+horo-;
+
+pre-;
+
+Quotes: Time;
+
+tempo-.
+
 【同源】Ab aeterno, aeon, age, aged, aye, coetaneous
 【词根】词缀：ag-, agen-, act-, agi-, agit-
 来源及含义：Latin: to set in motion, to hurry, to shake; to drive; to do, to act; to lead, to conduct, to guide
 【同源】Ab actu ad posse valet illatio, Ab agendo, act, acta, Acta est fabula, acta sanctorum
 【词根】词缀：agape-
 来源及含义：Greek > Latin: love feast of the early Christians; love, love feast; to love
-【相关】Related "love, fondness" units: 
-amat-;  
-philo-; 
-vener-;
-venus.
+【相关】Related "love, fondness" units: 
+
+amat-;  
+
+philo-; 
+
+vener-;
+
+venus.
+
 【同源】agapae, Agapanthus, agape, agapeistic, Agapemone, Agapios
 【词根】词缀：agari-
 来源及含义：Greek > Latin: mushrooms or toadstools
@@ -1299,134 +1450,240 @@ venus.
 【词根】词缀：-agogic-, -agogue, -agog, -agogic, -agoguery, -agogy
 来源及含义：Greek: usually a suffix meaning: lead, leading, leading forth, guide, guiding; bring, take; promoting, stimulating
 【相关】Cross references of word families related directly, or indirectly, to: "master, lead, leading, ruler, ruling, govern":
-agon-;
-arch-;
--crat;
-dom-;
-gov-;
-magist-;
-poten-;
-regi-;
-tyran-.
+agon-;
+
+arch-;
+
+-crat;
+
+dom-;
+
+gov-;
+
+magist-;
+
+poten-;
+
+regi-;
+
+tyran-.
+
 【同源】agogic, agogical, agogics, anagoge, anagogic, anagogical
 【词根】词缀：agon-
 来源及含义：Greek: struggle, a contest, to contend for a prize; also, to lead, set in motion, drive, conduct, guide, govern; to do, to act; by extension, pain
 【相关】Cross references of word families related directly, or indirectly, to: "master, lead, leading, ruler, ruling, govern":
--agogic;
-arch-;
--crat;
-dom-;
-gov-;
-magist-;
-poten-;
-regi-;
-tyran-.
+-agogic;
+
+arch-;
+
+-crat;
+
+dom-;
+
+gov-;
+
+magist-;
+
+poten-;
+
+regi-;
+
+tyran-.
+
 【同源】agon, agonal, agonarch, agonic, agonious, agonism
 【词根】词缀：agora-, -gor-
 来源及含义：Greek: assembly, market place; open space, public speaking; originally, "to unite"
 【同源】agora, agoramania, agoraphobia, allegory, diagorize, Harpagornis
 【词根】词缀：agra-
 来源及含义：Greek > Latin: from ager to agri and agrarius, of the land; land, fields
-【相关】
-Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
-agrest-;
-agri-;
-agro-;
-argill-;
-choro-;
-chthon-;
-epeiro-;
-geo-;
-glob-;
-lut-;
-myso-;
-pedo-;
-pel-;
-rhyp-;
-soil-;
-sord-;
-terr-.
+【相关】
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+
+agrest-;
+
+agri-;
+
+agro-;
+
+argill-;
+
+choro-;
+
+chthon-;
+
+epeiro-;
+
+geo-;
+
+glob-;
+
+lut-;
+
+myso-;
+
+pedo-;
+
+pel-;
+
+rhyp-;
+
+soil-;
+
+sord-;
+
+terr-.
+
 【同源】agral, agrarian, agrarianism, agrarianization, agrarianly
 【词根】词缀：-agra, -agras
 来源及含义：Greek: in medicine, a painful seizure or sudden-acute pain; as, with gout
-【相关】
-Cross references related  to "pain, hurt; suffering, injury" word families: 
-algesi-;
-algo-;
-angina-;
-dolor-;
-Masochism;
-noci-;
-odyno-;
-poen-;
-pono- (toil, work; pain);
-Sadism.
+【相关】
+
+Cross references related  to "pain, hurt; suffering, injury" word families: 
+
+algesi-;
+
+algo-;
+
+angina-;
+
+dolor-;
+
+Masochism;
+
+noci-;
+
+odyno-;
+
+poen-;
+
+pono- (toil, work; pain);
+
+Sadism.
+
 【同源】anconagra, arteriagra, arthragra, cardiagra, celiagra, cephalagra
 【词根】词缀：agrest-
 来源及含义：Latin: rustic, rural; pertaining to the fields; from ager then agrestis, "field"
-【相关】
-Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
-agra-;
-agri-;
-agro-;
-argill-;
-choro-;
-chthon-;
-epeiro-;
-geo-;
-glob-;
-lut-;
-myso-;
-pedo-;
-pel-;
-rhyp-;
-soil-;
-sord-;
-terr-.
+【相关】
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+
+agra-;
+
+agri-;
+
+agro-;
+
+argill-;
+
+choro-;
+
+chthon-;
+
+epeiro-;
+
+geo-;
+
+glob-;
+
+lut-;
+
+myso-;
+
+pedo-;
+
+pel-;
+
+rhyp-;
+
+soil-;
+
+sord-;
+
+terr-.
+
 【同源】agrestal, agrested, agrestial, agrestian, agrestic, agrestical
 【词根】词缀：agri-, agrio-, ager
 来源及含义：Greek > Latin: fields; wild, savage; living in the fields, via ager, agri.
-【相关】
-Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
-agra-;
-agrest-;
-agro-;
-argill-;
-choro-;
-chthon-;
-epeiro-;
-geo-;
-glob-;
-myso-;
-lut-;
-pedo-;
-pel-;
-rhyp-;
-soil-;
-sord-;
-terr-.
+【相关】
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+
+agra-;
+
+agrest-;
+
+agro-;
+
+argill-;
+
+choro-;
+
+chthon-;
+
+epeiro-;
+
+geo-;
+
+glob-;
+
+myso-;
+
+lut-;
+
+pedo-;
+
+pel-;
+
+rhyp-;
+
+soil-;
+
+sord-;
+
+terr-.
+
 【同源】agrarian, agrarianism, agrarianization, agrarianly, agribusiness, agricere
 【词根】词缀：agro-
 来源及含义：Greek: land, soil, field, fields; earth; wild, as one who lives in the fields; wildness; savage, savageness
-【相关】
-Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
-agra-;
-agrest-;
-agri-;
-argill-;
-choro-;
-chthon-;
-epeiro-;
-geo-;
-glob-;
-lut-;
-myso-;
-pedo-;
-pel-;
-rhyp-;
-soil-;
-sord-;
-terr-.
+【相关】
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+
+agra-;
+
+agrest-;
+
+agri-;
+
+argill-;
+
+choro-;
+
+chthon-;
+
+epeiro-;
+
+geo-;
+
+glob-;
+
+lut-;
+
+myso-;
+
+pedo-;
+
+pel-;
+
+rhyp-;
+
+soil-;
+
+sord-;
+
+terr-.
+
 【同源】Agrobacterium, agrobacterium, agrobiologist, agrobiology, agrobusiness, agrochemical28 29 30 31 32 33  
 
 
@@ -1459,16 +1716,22 @@ terr-.
 【词根】词缀：albo-, alb-, -albify; albus
 来源及含义：Latin: white; pale
 【相关】This unit is directly related to the albumino- unit.
-【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "white": 
-albumino-;
-leuco-.
+【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "white": 
+
+albumino-;
+
+leuco-.
+
 【同源】alb, alba, albatross, albedo, albeduria, Albeluvisol
 【词根】词缀：albumino-, albumi-, albumin-, albumini-, albumo-
 来源及含义：Latin: the color white
 【相关】This unit is directly related to the albo-, -albify unit.
-【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "white": 
-albo-;
-leuco-.
+【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "white": 
+
+albo-;
+
+leuco-.
+
 【同源】albuginea, albuginean, albugineotomy, albugineous, albuginitis, albugo29 30 31 32 33 34  
 
 
@@ -1480,15 +1743,24 @@ leuco-.
 【同源】alcholimetric, alcholizer, alcholometrical, alcogel, alcohol, alcohol
 【词根】词缀：aleato-, aleat-
 来源及含义：Greek > Latin: depending on chance or luck; pertaining to gambling; rolling of dice; game of hazard or chance
-【相关】
-A cross reference of other word family units that are related directly or indirectly to: "chance, luck, fate": 
-auspic-;
-cad-;
-fortu-;
--mancy;
-serendipity;
-sorc-;
-temer-;
+【相关】
+
+A cross reference of other word family units that are related directly or indirectly to: "chance, luck, fate": 
+
+auspic-;
+
+cad-;
+
+fortu-;
+
+-mancy;
+
+serendipity;
+
+sorc-;
+
+temer-;
+
 tycho-.
 【同源】aleatocracy, aleatocrat, aleatocratic, aleatoric, aleatory
 【词根】词缀：alectryo-, alectryu-, alecto-, alectoro-, alektoro-
@@ -1499,15 +1771,24 @@ tycho-.
 【同源】adolescence, adolescence, adolescent, adolescents, adult, adulticide
 【词根】词缀：aletho-, aleth-
 来源及含义：Greek: true; nothing concealed; real [from a-, "no, nothing" and letho-, "forgetfullness, oblivion"]
-【相关】
-Etymologically related "forget, forgetfulness" word families:  
-letho-; 
-oblivio-. 
-
-
-Related "memory, remember" word families: 
-memor-; 
-mne-.
+【相关】
+
+Etymologically related "forget, forgetfulness" word families:  
+
+letho-; 
+
+oblivio-. 
+
+
+
+
+
+Related "memory, remember" word families: 
+
+memor-; 
+
+mne-.
+
 【同源】Alethea, Aletheuontes de en Agape, alethia, alethic, alethiology, alethology
 【词根】词缀：aleuro-, aleur-
 来源及含义：Greek: flour
@@ -1522,32 +1803,55 @@ mne-.
 【词根】词缀：algesi-, alge-, alges-, algesio-, algi-,  algio-, -algesia, -algesic, -algetic, -algic, -algia, -algy
 来源及含义：Greek: pain, sense of pain; painful; hurting
 【相关】Used actively in medical terminology to denote a condition of sensitivity to pain as specified by the combining root.
-【相关】
-Cross references related  to "pain, hurt; suffering, injury" word families: 
--agra;
-algo-;
-angina-;
-dolor-;
-Masochism;
-noci-;
-odyno-;
-poen-;
-pono- (toil, work; pain);
-Sadism.
+【相关】
+
+Cross references related  to "pain, hurt; suffering, injury" word families: 
+
+-agra;
+
+algo-;
+
+angina-;
+
+dolor-;
+
+Masochism;
+
+noci-;
+
+odyno-;
+
+poen-;
+
+pono- (toil, work; pain);
+
+Sadism.
+
 【同源】abdominalgia, acromelalgia, acrostealgia, acupuncture analgesia, adenalgia, adiposalgia
 【词根】词缀：algid-
 来源及含义：Latin: cold, chilly; freeze
-【相关】
-Cross references of word families that are related directly or indirectly to "winter, freezing, frost, and/or cold": 
-cheimo- (winter, cold);
-crymo-, krymo- (cold, chill, frost);
-cryo-, kryo-; (cold, freezing);
-frigo-, frig- (cold, frost);
-gel-, gelati- (freeze, frost, congeal);
-hiber- (winter, wintry);
-pago- (cold, freezing);
-psychro- (cold);
-rhigo- (cold, frost; shiver).
+【相关】
+
+Cross references of word families that are related directly or indirectly to "winter, freezing, frost, and/or cold": 
+
+cheimo- (winter, cold);
+
+crymo-, krymo- (cold, chill, frost);
+
+cryo-, kryo-; (cold, freezing);
+
+frigo-, frig- (cold, frost);
+
+gel-, gelati- (freeze, frost, congeal);
+
+hiber- (winter, wintry);
+
+pago- (cold, freezing);
+
+psychro- (cold);
+
+rhigo- (cold, frost; shiver).
+
 【同源】algid, algid malaria, algid stage, algidism, algidity, algidness30 31 32 33 34 35  
 
 
@@ -1556,46 +1860,80 @@ rhigo- (cold, frost; shiver).
 【词根】词缀：algo-, alg-
 来源及含义：Greek: pain
 【相关】Don't confuse these Greek algo-, alg- words with other words that come from the Latin element, alg-, which means "sea weed".
-【相关】
-Cross references related  to "pain, hurt; suffering, injury" word families: 
--agra;
-algesi-;
-angina-;
-dolor-;
-Masochism;
-noci-;
-odyno-;
-poen-;
-pono- (toil, work; pain);
-Sadism.
+【相关】
+
+Cross references related  to "pain, hurt; suffering, injury" word families: 
+
+-agra;
+
+algesi-;
+
+angina-;
+
+dolor-;
+
+Masochism;
+
+noci-;
+
+odyno-;
+
+poen-;
+
+pono- (toil, work; pain);
+
+Sadism.
+
 【同源】algesidystrophy, algiovascular, algodystrophy, algogenesia, algogenesis, algogenic
 【词根】词缀：ali-
 来源及含义：Latin: other, another
-【相关】
-Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, changing":
-allo-;
-alter-;
-allelo-;
-hetero-;
-mut-;
-poikilo-;
-reciproc-;
-vari-.
+【相关】
+
+Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, changing":
+
+allo-;
+
+alter-;
+
+allelo-;
+
+hetero-;
+
+mut-;
+
+poikilo-;
+
+reciproc-;
+
+vari-.
+
 【同源】Ab alio expectes, Alia tendanda via est, alias, Alias dictus, alibi, alibi
 【词根】词缀：alimento-, aliment-
 来源及含义：Latin: food, nourishment
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "food, nutrition, nourishment":  
-broma-;
-carno-;
-cibo-;
-esculent-;
-sitio-;
-tropho-;
-Eating Crawling Snacks;
-Eating: Carnivorous-Plant "Pets";
-Eating: Folivory or Leaf Eaters;
-Eating: Omnivorous.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "food, nutrition, nourishment":  
+
+broma-;
+
+carno-;
+
+cibo-;
+
+esculent-;
+
+sitio-;
+
+tropho-;
+
+Eating Crawling Snacks;
+
+Eating: Carnivorous-Plant "Pets";
+
+Eating: Folivory or Leaf Eaters;
+
+Eating: Omnivorous.
+
 【同源】aliment, alimentary, alimentation, alimentology, alimentotherapy, alimony
 【词根】词缀：allanto-, allant-
 来源及含义：Greek: sausage
@@ -1603,57 +1941,96 @@ Eating: Omnivorous.
 【同源】allantiasis, allantoic, allantoiod, allantois, megallantoid, micrallantoid
 【词根】词缀：allelo-, allel-
 来源及含义：Greek: one another, of one another; literally, "the other"; reciprocally; in mutual relation
-【相关】
-Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
-ali-;
-allo-;
-alter-;
-hetero-;
-mut-;
-poikilo-;
-reciproc-;
-vari-.
+【相关】
+
+Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
+
+ali-;
+
+allo-;
+
+alter-;
+
+hetero-;
+
+mut-;
+
+poikilo-;
+
+reciproc-;
+
+vari-.
+
 【同源】allele, allelic, allelism, allelocatalysis, allelochemics, allelogenic
 【词根】词缀：allia-, alli-, allium
 来源及含义：Latin: garlic bulb; onion
 【同源】alliaceous, alliacious, alliaphage, alliaphagy
 【词根】词缀：allo-, all-
 来源及含义：Greek: different, other, another; divergence; a combining form denoting a condition differing from the normal or a reversal, or referring to "another"
-【相关】
-Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
-ali-;
-alter-;
-allelo-;
-hetero-;
-mut-;
-poikilo-;
-reciproc-;
-vari-.
+【相关】
+
+Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
+
+ali-;
+
+alter-;
+
+allelo-;
+
+hetero-;
+
+mut-;
+
+poikilo-;
+
+reciproc-;
+
+vari-.
+
 【同源】allegory, allenthesis, allergen, allergization, allergy, allesthesia
 【词根】词缀：allotrio- , allotri-
 来源及含义：Greek: different, of or belonging to another; foreign, strange; abnormal; perverse
-【相关】
-Related "foreign, strange" word families: 
-barbar-;
-xeno-.
+【相关】
+
+Related "foreign, strange" word families: 
+
+barbar-;
+
+xeno-.
+
 【同源】allotridontia, allotriogeustia, allotriolith, allotriomorphic, allotriophagia, allotriorhexia
 【词根】词缀：alopec-
 来源及含义：Greek > Latin: fox; baldness;  derived from  "mange in foxes"; bald patches on the head
-【相关】
-Links to other hair-related units: 
-barba-;
-Beards;
-capillaro-;
-chaeto-;
-cirro-;
-coife;
-crino-;
-Hair & Beard Styles;
-hirsute;
-pilo-;
-pogo-;
-tricho-;
-villi-.
+【相关】
+
+Links to other hair-related units: 
+
+barba-;
+
+Beards;
+
+capillaro-;
+
+chaeto-;
+
+cirro-;
+
+coife;
+
+crino-;
+
+Hair & Beard Styles;
+
+hirsute;
+
+pilo-;
+
+pogo-;
+
+tricho-;
+
+villi-.
+
 【同源】alopecia, alopecia areata, alopecia capitis totalis, alopecia congenitalis, alopecia follicularis, alopecia liminaris
 【词根】词缀：alphito-, alphit-
 来源及含义：Greek: barly, pearl barley, groats; originally, "white grain"
@@ -1667,16 +2044,26 @@ villi-.
 【同源】alsocole, alsophilous, alsophily
 【词根】词缀：alter-
 来源及含义：Latin: different, other, another; to change, to modify
-【相关】
-Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
-ali-;
-allo-;
-allelo-;
-hetero-;
-mut-;
-poikilo-;
-reciproc-;
-vari-.
+【相关】
+
+Inter-related  cross references, directly or indirectly, involving word units meaning "another, other, different, alternating, varied, changing":
+
+ali-;
+
+allo-;
+
+allelo-;
+
+hetero-;
+
+mut-;
+
+poikilo-;
+
+reciproc-;
+
+vari-.
+
 【同源】Ab alio expectes, adulterant, adulterate, adulteration, adulterer, adulteress
 【词根】词缀：alto-, alt-, alti-
 来源及含义：Latin: high, highest, make high; tall, lofty
@@ -1690,30 +2077,54 @@ vari-.
 【同源】aluminate, alumine, aluminium, Aluminoid, aluminosis, aluminothermy
 【词根】词缀：alveolo-, alveol-, alve-, alveat-
 来源及含义：Latin: trough, channel; small cavity, small pit; hollow
-【相关】
-A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
-alveolo-;
-antro-;
-anu-;
-celo-;
-coelio-;
-concho-;
-fenestra-;
-hernio-;
-hiat-;
-meato-;
-ora-;
-parieto-;
-poro-;
-pyl-, pyle-;
-pylor-;
-sphinctero-;
-splanchn-;
-stomato-;
-syringo-;
-uretero-;
-urethro-;
-vagino-;
+【相关】
+
+A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
+
+alveolo-;
+
+antro-;
+
+anu-;
+
+celo-;
+
+coelio-;
+
+concho-;
+
+fenestra-;
+
+hernio-;
+
+hiat-;
+
+meato-;
+
+ora-;
+
+parieto-;
+
+poro-;
+
+pyl-, pyle-;
+
+pylor-;
+
+sphinctero-;
+
+splanchn-;
+
+stomato-;
+
+syringo-;
+
+uretero-;
+
+urethro-;
+
+vagino-;
+
 ventricul-.
 【同源】alvei, alveoalgia, alveobronchiolitis, alveolar, alveolate, alveolectomy
 【词根】词缀：amalga-
@@ -1721,20 +2132,31 @@ ventricul-.
 【同源】amalgam, amalgam retort, amalgam treatment, amalgamate, amalgamation, amalgamation pan
 【词根】词缀：amat-, amor-, am-
 来源及含义：Latin: love, loving; fondness for; such as a man for a woman and a woman for a man
-【相关】This "love" unit is the main source of the words in the ami- or "friend" unit.
-Related "love, fondness" units: 
-agape-;  
-philo-; 
-vener-;
-venus.
+【相关】This "love" unit is the main source of the words in the ami- or "friend" unit.
+
+Related "love, fondness" units: 
+
+agape-;  
+
+philo-; 
+
+vener-;
+
+venus.
+
 【同源】amateur, amateurish, amateurishly, amateurishness, amative, amatively
 【词根】词缀：amatho-, amath-, amathi-
 来源及含义：Greek: sand [dust]
-【相关】Other related "sand" units:   
-ammo-; 
-areni-; 
-silico-; 
-thino-.
+【相关】Other related "sand" units:   
+
+ammo-; 
+
+areni-; 
+
+silico-; 
+
+thino-.
+
 【同源】amathad, amathicole, amathocole, amathomancy, amathophile, amathophobia
 【词根】词缀：amaxo-, amax-, amathi-
 来源及含义：Greek: wagon, vehicle
@@ -1745,14 +2167,22 @@ thino-.
 33 34 35 36 37 38 
 【词根】词缀：ambi-, amb-, ambo-
 来源及含义：Latin: both, on both sides; around, about; vague; obscure
-【相关】
-Related "around, round, surrounding" units: 
-ampho-; 
-circ-;
-circum-;
-cyclo-, -cycle;
-gyro-;
-peri-.
+【相关】
+
+Related "around, round, surrounding" units: 
+
+ampho-; 
+
+circ-;
+
+circum-;
+
+cyclo-, -cycle;
+
+gyro-;
+
+peri-.
+
 【同源】ambiance, ambiciliate, ambicolorate, ambidexter, ambidexterity, ambidextrous
 【词根】词缀：amblyo-, ambly-
 来源及含义：Greek: dull, dullness, dim, dimness, blunt; stupid
@@ -1772,21 +2202,33 @@ peri-.
 【同源】amiability, amiable, amiably, amicability, amicable, amicably
 【词根】词缀：ammo-, amm-
 来源及含义：Greek: sand; used primarily in botany and zoology
-【相关】Other related "sand" units: 
-amatho-; 
-areni-; 
-silico-; 
-thino-.
+【相关】Other related "sand" units: 
+
+amatho-; 
+
+areni-; 
+
+silico-; 
+
+thino-.
+
 【同源】Ammobium, ammocalous, ammochaeta, ammochryse, ammochthophilous, ammochthophily
 【词根】词缀：amni-
 来源及含义：Latin: stream of water, river
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "river, stream": 
-fluvio-;
-meand-;
-oceano-;
-potamo-;
-ripari-.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "river, stream": 
+
+fluvio-;
+
+meand-;
+
+oceano-;
+
+potamo-;
+
+ripari-.
+
 【同源】amnic, amnicole, amnicolist, amnigenous, interamnian
 【词根】词缀：amnio-
 来源及含义：Greek: "bowl", or "lamb"
@@ -1804,14 +2246,22 @@ ripari-.
 【同源】ampelography, ampelopsis, Ampelosaurus, ampelotherapy
 【词根】词缀：ampho-, amph-, amphi-
 来源及含义：Greek: around, about, both, on both sides of, both kinds
-【相关】
-Related "around, round, surrounding" units: 
-ambi-; 
-circ-;
-circum-;
-cyclo-, -cycle;
-gyro-;
-peri-.
+【相关】
+
+Related "around, round, surrounding" units: 
+
+ambi-; 
+
+circ-;
+
+circum-;
+
+cyclo-, -cycle;
+
+gyro-;
+
+peri-.
+
 【同源】amphanthium, amphiarthrodial, amphiarthrosis, amphiaster, amphiatlantic, Amphibia
 【词根】词缀：amphor-
 来源及含义：Greek (amphoreus > Latin (amphora): bottle, jar; a vessel with two handles or ears, a pitcher
@@ -1858,7 +2308,8 @@ peri-.
 【同源】ancocole, ancophilous
 【词根】词缀：ancon-
 来源及含义：Greek > Latin: elbow
-【相关】A related "elbow" family of words: 
+【相关】A related "elbow" family of words: 
+
 ulno-.
 【同源】anconad, anconagra, anconal, ancone, anconeal, anconeus
 【词根】词缀：-ancy
@@ -1866,26 +2317,42 @@ ulno-.
 【同源】abundancy, brilliancy, buoyancy, constancy, continuancy, expectancy
 【词根】词缀：andro-, andr-, -ander, -andra, -andria, -andrian, -andric, -andrism, -androus, -andries, -andry
 来源及含义：Greek: man, men, male, masculine; also, stamen or anther as used in botany
-【相关】Links to other units that include the topic of "man", "mankind":anthropo-;
-homo-;
-vir-.
+【相关】Links to other units that include the topic of "man", "mankind":anthropo-;
+
+homo-;
+
+vir-.
+
 【同源】adynamandrous, anandrious, anandrous, andragogy, andranatomy, andriatry
 【词根】词缀：anemo-, anem-
 来源及含义：Greek: air, wind
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aello-;
-aeolo-;
-aero-;
-atmo-;
-austro-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aello-;
+
+aeolo-;
+
+aero-;
+
+atmo-;
+
+austro-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】anemious, anemochord, anemochore, anemoclast, anemoclastic, anemocracy
 【词根】词缀：angelo-, angel-
 来源及含义：Greek: messenger, divine messenger
@@ -1896,85 +2363,144 @@ zephyro-.
 36 37 38 39 40 41 
 【词根】词缀：angi-, angio-, angei-, -angium
 来源及含义：Greek > Latin: [receptacle], vessel, often a blood vessel; "covered by a seed or vessel", a seed vessel; a learned borrowing from Greek meaning "vessel", "container"
-【相关】Inter-related  cross references, directly or indirectly, involving "blood" word units: 
-apheresis;
--emia;
-hemo-;
-hemoglobin-;
-phleb-;
-sangui-;
-vas-;
-vascul-.
+【相关】Inter-related  cross references, directly or indirectly, involving "blood" word units: 
+
+apheresis;
+
+-emia;
+
+hemo-;
+
+hemoglobin-;
+
+phleb-;
+
+sangui-;
+
+vas-;
+
+vascul-.
+
 【同源】adenoangiosarcoma, anangioid, anangioplasia, angialgia, angiasthenia, angiectasia
 【词根】词缀：angina-
 来源及含义：Latin: to strangle; to choke or to suffocate
 【相关】A spasmodic, cramplike, oppressive pain or attack. Any of varioius diseases marked by attacks of choking or suffocation, especially those affecting the throat.
-【相关】
-Cross references related  to "pain, hurt; suffering, injury" word families: 
--agra;
-algesi-;
-algo-;
-dolor-;
-Masochism;
-noci-;
-odyno-;
-poen-;
-pono- (toil, work; pain);
-Sadism.
+【相关】
+
+Cross references related  to "pain, hurt; suffering, injury" word families: 
+
+-agra;
+
+algesi-;
+
+algo-;
+
+dolor-;
+
+Masochism;
+
+noci-;
+
+odyno-;
+
+poen-;
+
+pono- (toil, work; pain);
+
+Sadism.
+
 【同源】angina, angina pectoris, anginal, anginaphobia, anginiform, anginoid
 【词根】词缀：angle, angu-
 来源及含义：Latin: a corner, a bend
 【同源】acutangular, acute angle, angle, angle, angular, angularly
 【词根】词缀：angui-
 来源及含义：Latin: serpent, snake
-【相关】
-A cross reference of other word family units that are related directly, or indirectly, with: "snakes or other reptiles": 
-coluber-;
-herpeto-;
-ophio-;
-reptil-;
-sauro-.
+【相关】
+
+A cross reference of other word family units that are related directly, or indirectly, with: "snakes or other reptiles": 
+
+coluber-;
+
+herpeto-;
+
+ophio-;
+
+reptil-;
+
+sauro-.
+
 【同源】anguiform, anguilliform, anguine, anguineous, anguiped, anguiped
 【词根】词缀：angusti-, angust-
 来源及含义：Latin: narrow, tight, slender, thin
 【同源】Ad augusta per angust, anguish, anguish, anguish, angust, angustate
 【词根】词缀：anilo-, anil-
 来源及含义：Latin: an old woman; old age of a woman; a "venerable woman"
-【相关】
-Related "woman, female" units: 
-fem-; 
-gyno-; 
-mulie-;
-virgo-.
+【相关】
+
+Related "woman, female" units: 
+
+fem-; 
+
+gyno-; 
+
+mulie-;
+
+virgo-.
+
 【同源】anile, anililagnia, anility, anilojuvenogamist, anilojuvenogamous, anilojuvenogamy
 【词根】词缀：anima-, anim-
 来源及含义：Latin: animal life, a living creature; living; breath; soul; mind
 【相关】The Latin element, anima-, refers to “a living being” from a Latin form meaning, “of air, having a spirit, living”; which in turn comes from another form meaning, “breath of air, air, soul, life”.
-【相关】
-Related "animal" units: 
-faun-;
-therio-;
-zoo-.
-
-
-Related life, live-word units: 
-bio-;
--cole;
-vita-;
-viva-.
- 
-Inter-related  cross references, directly or indirectly, involving the "mind, mental" word units: 
-anima-;
-anxi-;
-deliri-;
-hallucina-;
-menti-;
-moro-;
-noo-;
-nous;
-phreno-;
-psych-;
-thymo-2.
+【相关】
+
+Related "animal" units: 
+
+faun-;
+
+therio-;
+
+zoo-.
+
+
+
+
+
+Related life, live-word units: 
+
+bio-;
+
+-cole;
+
+vita-;
+
+viva-.
+
+ 
+
+Inter-related  cross references, directly or indirectly, involving the "mind, mental" word units: 
+
+anima-;
+
+anxi-;
+
+deliri-;
+
+hallucina-;
+
+menti-;
+
+moro-;
+
+noo-;
+
+nous;
+
+phreno-;
+
+psych-;
+
+thymo-2.
+
 【同源】anima, animadversion, animadversive, animadversiveness, animadvert, animadverter
 【词根】词缀：aniso-, anis-
 来源及含义：Greek: unequal; by extension: unsymmetrical, uneven; dissimilar, unlike
@@ -2011,21 +2537,33 @@ thymo-2.
 【词根】词缀：ante-,  ant-
 来源及含义：Latin: before, in front of, prior to, forward; used as a prefix
 【相关】Compare this element with anti-, meaning "against". Anti-, with the meaning of "before", is found in very few words, such as: "antipasto" (from Italian) and "anticipate" with its various forms, plus a few scientific terms.
-【相关】
-Related before-word units: 
-antero-;
-anti-;
-pre-;
-pro-.
+【相关】
+
+Related before-word units: 
+
+antero-;
+
+anti-;
+
+pre-;
+
+pro-.
+
 【同源】advance, advancement, advantage, advantageous, advantageously, advantageousness
 【词根】词缀：antero-
 来源及含义：Latin: before, in front of; fore, prior, preceding; used as a prefix
-【相关】
-Related before-word units: 
-ante-;
-anti-;
-pre-;
-pro-.
+【相关】
+
+Related before-word units: 
+
+ante-;
+
+anti-;
+
+pre-;
+
+pro-.
+
 【同源】anterodorsal, anteroexternal, anterofrontal, anterograde, anteroinferior, anterointernal
 【词根】词缀：antho-, anth-, anthero-, anther-, -antherous, -anthemous, -anthic, -anthous, -anthus, -anthy
 来源及含义：Greek: flower, flowers; blossom, blossoms; that which buds or sprouts
@@ -2039,27 +2577,44 @@ pro-.
 38 39 40 41 42 43 
 【词根】词缀：anthrop-, anthropo-, -anthrope, -anthropic, -anthropical, -anthropically, -anthropism, -anthropist, -anthropoid, -anthropus, -anthropy
 来源及含义：Greek: man; human beings, mankind; including, males (man, men; boy, boys) and females (woman, women; girl, girls); all members of the human race; people, humanity
-【相关】Links to other units that include the topic of "man", "mankind": andro-;
-homo-;
-vir-.
-
-
-Related "people, human" word units: 
-demo-;
-ethno-;
-ochlo-; 
-popu-; 
-publi-.
+【相关】Links to other units that include the topic of "man", "mankind": andro-;
+
+homo-;
+
+vir-.
+
+
+
+
+
+Related "people, human" word units: 
+
+demo-;
+
+ethno-;
+
+ochlo-; 
+
+popu-; 
+
+publi-.
+
 【同源】academic anthropologist, academic anthropology, Africanthropus, American Institute of Philanthropy, anthrobot, anthropagogy
 【词根】词缀：anti-
 来源及含义：Latin: before; used as a prefix
 【相关】Don't confuse this anti- ("before") with the anti- which means "against, opposed to".
-【相关】
-Related before-word units: 
-ante-;
-antero-;
-pre-;
-pro-.
+【相关】
+
+Related before-word units: 
+
+ante-;
+
+antero-;
+
+pre-;
+
+pro-.
+
 【同源】anticipant, anticipatable, anticipate, anticipation, anticipatory, anticus
 【词根】词缀：anti-, ant-
 来源及含义：Greek: against, opposed to, preventive; used as a prefix
@@ -2070,71 +2625,128 @@ pro-.
 【同源】antique, antiquity
 【词根】词缀：antro-, antr-
 来源及含义：Greek: cave, cavern; in medicine, of or pertaining to a [bodily] cavity or sinus; a term in anatomical nomenclature, especially to designate a cavity or chamber within a bone
-【相关】
-A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
-alveolo-;
-anu-;
-celo-;
-coelio-;
-concho-;
-fenestra-;
-hernio-;
-hiat-;
-meato-;
-ora-;
-parieto-;
-poro-;
-pyl-, pyle-;
-pylor-;
-sphinctero-;
-splanchn-;
-stomato-;
-syringo-;
-uretero-;
-urethro-;
-vagino-;
+【相关】
+
+A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
+
+alveolo-;
+
+anu-;
+
+celo-;
+
+coelio-;
+
+concho-;
+
+fenestra-;
+
+hernio-;
+
+hiat-;
+
+meato-;
+
+ora-;
+
+parieto-;
+
+poro-;
+
+pyl-, pyle-;
+
+pylor-;
+
+sphinctero-;
+
+splanchn-;
+
+stomato-;
+
+syringo-;
+
+uretero-;
+
+urethro-;
+
+vagino-;
+
 ventricul-.
 【同源】antritis, antrum, atticoantrotomy
 【词根】词缀：anu-, ana-, an-, anal-, ano-
 来源及含义：Latin: ring, an iron ring for the feet; circle; (so called because of its form); usually the posterior opening of the alimentary canal through which undigested food is voided; the anus
-【相关】
-A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
-alveolo-;
-antro-;
-celo-;
-coelio-;
-concho-;
-fenestra-;
-hernio-;
-hiat-;
-meato-;
-ora-;
-parieto-;
-poro-;
-pyl-, pyle-;
-pylor-;
-sphinctero-;
-splanchn-;
-stomato-;
-syringo-;
-uretero-;
-urethro-;
-vagino-;
+【相关】
+
+A cross reference of other word family units that are related directly, indirectly, or partially with: "opening, hole, cavity, tract, tube": 
+
+alveolo-;
+
+antro-;
+
+celo-;
+
+coelio-;
+
+concho-;
+
+fenestra-;
+
+hernio-;
+
+hiat-;
+
+meato-;
+
+ora-;
+
+parieto-;
+
+poro-;
+
+pyl-, pyle-;
+
+pylor-;
+
+sphinctero-;
+
+splanchn-;
+
+stomato-;
+
+syringo-;
+
+uretero-;
+
+urethro-;
+
+vagino-;
+
 ventricul-.
 【同源】anoderm, anoperineal, anophony, anorectal, anorectocolonic, anorectum
 【词根】词缀：anxi-
 来源及含义：Latin: anxius, solicitous, uneasy, troubled in mind
-【相关】Inter-related  cross references, directly or indirectly, involving the "mind, mental" word units: 
-anima-;
-deliri-;
-hallucina-;
-menti-;
-moro-;
-noo-;
-nous;
-phreno-;
-psych-;
-thymo-2.
+【相关】Inter-related  cross references, directly or indirectly, involving the "mind, mental" word units: 
+
+anima-;
+
+deliri-;
+
+hallucina-;
+
+menti-;
+
+moro-;
+
+noo-;
+
+nous;
+
+phreno-;
+
+psych-;
+
+thymo-2.
+
 【同源】angst, antianxiety, anxiety, anxiolytic, anxious, anxiously
 【词根】词缀：aorto-, aort-, aortico-
 来源及含义：Greek: lower extremity of the windpipe; by extension, extremity of the heart, the great artery
@@ -2157,71 +2769,130 @@ thymo-2.
 【同源】apex, apex cordis, apex linguae, apex nasi, apexcardiogram, apexcardiography
 【词根】词缀：aphidi-, aphid-, aphis
 来源及含义：Latin: a plant louse; a plant sucking insect
-【相关】
-A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
-api-;
-ascari-;
-culci-;
-Dung Beetle Survival;
-Dung Beetles Important;
-Eating Worms;
-entomo-;
-formic-;
-Guinea worms;
-helmintho-;
-insecto-;
-Insects: Importance;
-isopter-;
-larvi-;
-lepidopter-;
-meliss-;
-mosquito;
-Mosquito, other Languages;
-Mosquitoes, Pt. 1;
-Mosquitoes, Pt. 2;
-myrmeco-;
-scarab;
-scoleco-;
-sphec-;
-taeni-;
-termit-;
-vermo-.
+【相关】
+
+A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
+
+api-;
+
+ascari-;
+
+culci-;
+
+Dung Beetle Survival;
+
+Dung Beetles Important;
+
+Eating Worms;
+
+entomo-;
+
+formic-;
+
+Guinea worms;
+
+helmintho-;
+
+insecto-;
+
+Insects: Importance;
+
+isopter-;
+
+larvi-;
+
+lepidopter-;
+
+meliss-;
+
+mosquito;
+
+Mosquito, other Languages;
+
+Mosquitoes, Pt. 1;
+
+Mosquitoes, Pt. 2;
+
+myrmeco-;
+
+scarab;
+
+scoleco-;
+
+sphec-;
+
+taeni-;
+
+termit-;
+
+vermo-.
+
 【同源】aphidian, aphidicide, aphidicole, Aphididae, aphidivorous, aphidophagous
 【词根】词缀：aphro-, aphr-
 来源及含义：Greek: foam, froth
 【同源】aphrite, aphrizite, aphrodita, aphrodite, aphrolite
 【词根】词缀：api-
 来源及含义：Latin: bee
-【相关】Kim HubbardE. Cole, An English Dictioinary, 1677
-【相关】
-A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
-aphidi-;
-ascari-;
-culci-;
-Dung Beetle Survival;
-Dung Beetles Important;
-Eating Worms;
-entomo-;
-formic-;
-Guinea worms;
-helmintho-;
-insecto-;
-Insects: Importance;
-isopter-;
-larvi-;
-lepidopter-;
-meliss-;
-mosquito;
-Mosquito, other Languages;
-Mosquitoes, Pt. 1;
-Mosquitoes, Pt. 2;
-myrmeco-;
-scarab;
-scoleco-;
-sphec-;
-taeni-;
-termit-;
-vermo-.
+【相关】Kim Hubbard
+E. Cole, An English Dictioinary, 1677
+【相关】
+
+A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
+
+aphidi-;
+
+ascari-;
+
+culci-;
+
+Dung Beetle Survival;
+
+Dung Beetles Important;
+
+Eating Worms;
+
+entomo-;
+
+formic-;
+
+Guinea worms;
+
+helmintho-;
+
+insecto-;
+
+Insects: Importance;
+
+isopter-;
+
+larvi-;
+
+lepidopter-;
+
+meliss-;
+
+mosquito;
+
+Mosquito, other Languages;
+
+Mosquitoes, Pt. 1;
+
+Mosquitoes, Pt. 2;
+
+myrmeco-;
+
+scarab;
+
+scoleco-;
+
+sphec-;
+
+taeni-;
+
+termit-;
+
+vermo-.
+
 【同源】Acarapis, apiaceous, apian, apiarian, apiarist, apiary
 【词根】词缀：apico-, apic-
 来源及含义：Latin: top, cap, tip, apex
@@ -2237,11 +2908,16 @@ vermo-.
 【同源】adapt, adapt, adaptability, adaptable, adaptableness, adaptably
 【词根】词缀：aqua-, aquatic-, aqui-, aqu-, -aquatically, aque-, -aqueous
 来源及含义：Latin: water, watery solution
-【相关】
-Cross references of word families that refer to "water": 
-hydat-;
-hydro-;
-hygro-.
+【相关】
+
+Cross references of word families that refer to "water": 
+
+hydat-;
+
+hydro-;
+
+hygro-.
+
 【同源】alluvial aquifer, aqua, aqua exclusa, aqua potabile, aqua regia, aqua weed cutter39 40 41 42 43 44  
 
 
@@ -2258,22 +2934,32 @@ hygro-.
 【同源】arability, arable, arableness, inarable
 【词根】词缀：arachno-, arachn-
 来源及含义：Greek: spider; the arachnoidea; when used in medicine this Greek element refers to a membrane, veins, or any web-like structure in the body
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
-acaro-;
-arano-;
-mite, mites.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
+
+acaro-;
+
+arano-;
+
+mite, mites.
+
 【同源】arachnactis, Arachne, arachnean, arachnephobia, arachnid, Arachnida
 【词根】词缀：aracho-, arachi-, arachid-, araki-
 来源及含义：Greek > Latin: legume; peanut
 【同源】arachibutyrophobia, arachic, arachidonic acid, arachin, Arachis hypogaea, arachis oil
 【词根】词缀：arano-, aran-
 来源及含义：Latin: spider
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
-acaro-;
-arachno-;
-mite, mites.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "spider; arachnoidea":  
+
+acaro-;
+
+arachno-;
+
+mite, mites.
+
 【同源】Aranea, Araneae, araneid, Araneida, Araneidae, araneidan
 【词根】词缀：arbitr-, arbit-
 来源及含义：Latin: consider, judge; spectator, listener, witness; originally, "decided by one's own discretion or judgment"
@@ -2294,36 +2980,57 @@ mite, mites.
 【词根】词缀：arch-, archi-, -arch
 来源及含义：Greek > Latin: chief, principal leader, first [in position or rank]
 【相关】Cross references of word families related directly, or indirectly, to: "master, lead, leading, ruler, ruling, govern":
--agogic;
-agon-;
--crat;
-dom-;
-gov-;
-magist-;
-poten-;
-regi-;
-tyran-.
+-agogic;
+
+agon-;
+
+-crat;
+
+dom-;
+
+gov-;
+
+magist-;
+
+poten-;
+
+regi-;
+
+tyran-.
+
 【同源】archabbey, archangel, archbishop, archdeacon, archdiocese, archduchy
 【词根】词缀：arch, -archic, -archical, -archism, -archist, -archy
 来源及含义：Greek: govern, rule; ruler, chief [first in position]
 【同源】anarch, anarchic, anarchism, anarchist, anarchy, antimonarchy
 【词根】词缀：archaeo-, archeo-, archae-, arche-, archa-, archi-, -arch
 来源及含义：Greek: original [first in time], beginning, first cause, origin, ancient, primitive, from the beginning; most basic
-【相关】
-Related "time" units: 
-aevum, evum;
-Calendars;
-chrono-;
-horo-;
-pre-;
-Quotes: Time;
-tempo-.
+【相关】
+
+Related "time" units: 
+
+aevum, evum;
+
+Calendars;
+
+chrono-;
+
+horo-;
+
+pre-;
+
+Quotes: Time;
+
+tempo-.
+
 【同源】antarchism, archaebacterium, archaeoastronomer, archaeoastronomy, archaeobacterium, archaeofauna
 【词根】词缀：arcto-, arct-
 来源及含义：Greek: of the bear, bear [the animal]; or the north, northern
-【相关】
-Related "bear, bears (animals)" word units: 
-Berserk; 
+【相关】
+
+Related "bear, bears (animals)" word units: 
+
+Berserk; 
+
 ursi-.
 【同源】antarctic air, antarctic anticyclone, Antarctic bottom water, Antarctic Circumpolar Current, Antarctic, Antarctical
 【词根】词缀：-ard, -art
@@ -2331,47 +3038,76 @@ ursi-.
 【同源】braggard, coward, drunkard, wizard
 【词根】词缀：arena,  areni-
 来源及含义：Latin: harena; sand, sandy place, sea-shore; place of combat [literally, "place strewn with sand"]
-【相关】Other related "sand" units: 
-amatho-; 
-ammo-;  
-silico-; 
-thino-.
+【相关】Other related "sand" units: 
+
+amatho-; 
+
+ammo-;  
+
+silico-; 
+
+thino-.
+
 【同源】arena, arenaceous, arenarious, arenicole, arenicolite, arenicolous
 【词根】词缀：areo-
 来源及含义：Greek: thin, slight, weak; small space
 【同源】areometer, areometric, areometry
 【词根】词缀：areo-, are-
 来源及含义：Greek: of, or pertaining to "god of war", Ares or Mars, used primarily in astronomy
-【相关】
-Related "war, war-like" or "battle" word units:
-belli-;
--machy;
-milit-.
+【相关】
+
+Related "war, war-like" or "battle" word units:
+
+belli-;
+
+-machy;
+
+milit-.
+
 【同源】areography, areology, Areopagite, Areopagus, Ares
 【词根】词缀：argento-, argent-, argenti-
 来源及含义：Latin: silver
 【同源】argent, argentation, argenti, argentic, argentiferous, Argentina
 【词根】词缀：argill-, argillo-
 来源及含义：Greek > Latin: clay
-【相关】
-Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
-agra-;
-agrest-;
-agri-;
-agro-;
-choro-;
-chthon-;
-epeiro-;
-geo-;
-glob-;
-lut-;
-myso-;
-pedo-;
-pel-;
-rhyp-;
-soil-;
-sord-;
-terr-.
+【相关】
+
+Cross references of word families related directly, or indirectly, to: "land, ground, fields, soil, dirt, mud, clay, earth (world)": 
+
+agra-;
+
+agrest-;
+
+agri-;
+
+agro-;
+
+choro-;
+
+chthon-;
+
+epeiro-;
+
+geo-;
+
+glob-;
+
+lut-;
+
+myso-;
+
+pedo-;
+
+pel-;
+
+rhyp-;
+
+soil-;
+
+sord-;
+
+terr-.
+
 【同源】argillaceous, argillaceous rock, argillation, argillic, argillic alteration, argillic horizon41 42 43 44 45 46  
 
 
@@ -2379,14 +3115,22 @@ terr-.
 42 43 44 45 46 47 
 【词根】词缀：argo-
 来源及含义：Greek > Latin: passive, unworkable, slow; a-, "without, not" + ergon, "work"
-【相关】
-Cross references related  to "work, toil" word families: 
-ergasio-;
-ergo-;
-labor-;
-oper-;
-pono-;
-urg-.
+【相关】
+
+Cross references related  to "work, toil" word families: 
+
+ergasio-;
+
+ergo-;
+
+labor-;
+
+oper-;
+
+pono-;
+
+urg-.
+
 【同源】argamblyopia, argodromile, argon, argonon, argotaxis
 【词根】词缀：argyro-, argyr-
 来源及含义：Greek: silver
@@ -2400,7 +3144,8 @@ urg-.
 【词根】词缀：arid-
 来源及含义：Latin: to be dry; lacking enough water for things to grow, dry and barren; by extension, not interesting, lifeless, dull
 【相关】Cross reference of another word family related to: "dry":
-xer-, xero-.
+xer-, xero-.
+
 【同源】areal, arid, arid-agriculture, aridity, aridly, aridness
 【词根】词缀：arist-, aristi-
 来源及含义：Latin: awn or beard of grain; ear of grain
@@ -2427,39 +3172,66 @@ xer-, xero-.
 【同源】alarum, arm, arm, armada, armadillo, armament
 【词根】词缀：aromo-, arom-
 来源及含义：Greek > Latin: fragrance, odor, spice
-【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "smell, odor": 
-brom-;
-odor-, odori-;
-olfacto-;
-osmo-;
-osphresio-;
-ozon-.
+【相关】Inter-related  cross references, directly or indirectly, involving word units meaning "smell, odor": 
+
+brom-;
+
+odor-, odori-;
+
+olfacto-;
+
+osmo-;
+
+osphresio-;
+
+ozon-.
+
 【同源】aroma, aromatherapist, aromatherapy, aromatic, aromatical, aromaticity
 【词根】词缀：arrheno-, arrhen-
 来源及含义：Greek: male
 【同源】arrhenoblastoma, arrhenogenic, arrhenoid, arrhenokaryon, arrhenoplasm, arrhenotocia
 【词根】词缀：ars-, ard-
 来源及含义：Latin: fire
-【相关】
-Cross references of word groups that are related, directly, indirectly, or partly to: "fire, burn, glow, or ashes": 
--bust;
-cand-, cend-;
-caust-, caut-;
-crema-;
-ciner-;
-ether-;
-flagr-;
-flam-;
-focus, foci-;
-fulg-;
-gehenna-; 
-ign-;
-phleg-;
-phlog-;
-pyreto-, -pyrexia;
-pyr-;
-spod- (ashes; waste);
-volcan-.
+【相关】
+
+Cross references of word groups that are related, directly, indirectly, or partly to: "fire, burn, glow, or ashes": 
+
+-bust;
+
+cand-, cend-;
+
+caust-, caut-;
+
+crema-;
+
+ciner-;
+
+ether-;
+
+flagr-;
+
+flam-;
+
+focus, foci-;
+
+fulg-;
+
+gehenna-; 
+
+ign-;
+
+phleg-;
+
+phlog-;
+
+pyreto-, -pyrexia;
+
+pyr-;
+
+spod- (ashes; waste);
+
+volcan-.
+
 【同源】ardency, ardent, Ardentia verba, ardently, ardentness, ardor
 【词根】词缀：arseno-, arsen-
 来源及含义：Greek > Latin: yellow orpiment [pigment of gold]; arsenic trisulfide, having a lemon-yellow color and a resinous luster; used as a pigment
@@ -2492,35 +3264,64 @@ volcan-.
 【同源】ablephary, ablutionary, aboriginary, admaxillary, adversary, agynary
 【词根】词缀：ascari-, ascarid-
 来源及含义：Greek: worm; maw-worm; intestinal worm
-【相关】
-A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
-aphidi-;
-api-;
-culci-;
-Dung Beetle Survival;
-Dung Beetles Important;
-Eating Worms;
-entomo-;
-formic-;
-Guinea worms;
-helmintho-;
-insecto-;
-Insects: Importance;
-isopter-;
-larvi-;
-lepidopter-;
-meliss-;
-mosquito;
-Mosquito, other Languages;
-Mosquitoes, Pt. 1;
-Mosquitoes, Pt. 2;
-myrmeco-;
-scarab;
-scoleco-;
-sphec-;
-taeni-;
-termit-;
-vermo-.
+【相关】
+
+A cross reference of other word family units that are related directly, or indirectly, with: "insects, bugs, worms; invertebrates": 
+
+aphidi-;
+
+api-;
+
+culci-;
+
+Dung Beetle Survival;
+
+Dung Beetles Important;
+
+Eating Worms;
+
+entomo-;
+
+formic-;
+
+Guinea worms;
+
+helmintho-;
+
+insecto-;
+
+Insects: Importance;
+
+isopter-;
+
+larvi-;
+
+lepidopter-;
+
+meliss-;
+
+mosquito;
+
+Mosquito, other Languages;
+
+Mosquitoes, Pt. 1;
+
+Mosquitoes, Pt. 2;
+
+myrmeco-;
+
+scarab;
+
+scoleco-;
+
+sphec-;
+
+taeni-;
+
+termit-;
+
+vermo-.
+
 【同源】ascariasis, ascaricide, ascarid, ascaridal, ascaridiasis, ascaridosis
 【词根】词缀：asco-, asci-, asc-, ascidi-, ascid-
 来源及含义：Greek: little bag, bag; bladder, pouch; bladder like, sac like; from leather bag, wine skin
@@ -2563,12 +3364,17 @@ vermo-.
 【同源】astragalar, astragalectomy, astragalocalcanean, astragalofibular, astragalomancy, astragaloscaphoic
 【词根】词缀：astrapo-, astrap-
 来源及含义：Greek: lightning; the Greek verb strapto means "to hurl"
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "lightning and/or thunder":
-bronto-;
-cerauno-, kerauno-;
-fulgur-;
-tonitro-, tonitru-.
+bronto-;
+
+cerauno-, kerauno-;
+
+fulgur-;
+
+tonitro-, tonitru-.
+
 【同源】astraphobia, astraphobiac, astrapomancy, astrapomania, astrapomaniac, Astrapotherium magnum
 【词根】词缀：astro-, astr-
 来源及含义：Greek: star, stars, star shaped; also pertaining to outer space
@@ -2621,14 +3427,22 @@ tonitro-, tonitru-.
 【同源】atlantal, atlantoaxial, atlantoaxial, atlantodidymus, atlantomastoid, atlanto-occipital
 【词根】词缀：atmido-, atmid-
 来源及含义：Greek: smoke, vapor, steam; from amis, atmidos, "smoke, vapor"
-【相关】
-Inter-related cross references, directly or indirectly, involving word units dealing with "smoke, smoking":
-capno;
-Capnomania & Fumimania, Pt. 1;
-Capnophobia & Fumiphobia, Pt. 1;
-fumi-;
-nebula-;
-typho-.
+【相关】
+
+Inter-related cross references, directly or indirectly, involving word units dealing with "smoke, smoking":
+
+capno;
+
+Capnomania & Fumimania, Pt. 1;
+
+Capnophobia & Fumiphobia, Pt. 1;
+
+fumi-;
+
+nebula-;
+
+typho-.
+
 【同源】atmidometer, atmidometric, atmidometry, atmometer46 47 48 49 50 51  
 
 
@@ -2636,20 +3450,33 @@ typho-.
 47 48 49 50 51 52 
 【词根】词缀：atmo-, atm-
 来源及含义：Greek: vapor, steam; air, gas; respiration
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aello-;
-aeolo-;
-aero-;
-anemo-;
-austro-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aello-;
+
+aeolo-;
+
+aero-;
+
+anemo-;
+
+austro-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】atmiatry, atmidometric, atmobios, atmocausis, atmocautery, atmoclast
 【词根】词缀：-ator
 来源及含义：Latin: a suffix that forms masculine nouns from verbs
@@ -2663,27 +3490,48 @@ zephyro-.
 【词根】词缀：atto- [A toh]
 来源及含义：Danish or Norwegian: eighteen; a decimal prefix used in the international metric system for measurements
 【相关】This prefix is used in the metric [decimal] system as quintillionth [U.S.] and trillionth part [U.K.], 10-18 [0.000 000 000 000 000 001]. The metric symbol for atto- is a.
-【相关】
-Related "metric" families: 
-yotta; 
-zetta;
-exa; 
-peta;
-tera;
-giga; 
-mega;
-kilo; 
-hecto;
-deka;
-deci; 
-centi;
-milli; 
-micro;
-nano;
-pico; 
-femto;
-zepto;
-yocto.
+【相关】
+
+Related "metric" families: 
+
+yotta; 
+
+zetta;
+
+exa; 
+
+peta;
+
+tera;
+
+giga; 
+
+mega;
+
+kilo; 
+
+hecto;
+
+deka;
+
+deci; 
+
+centi;
+
+milli; 
+
+micro;
+
+nano;
+
+pico; 
+
+femto;
+
+zepto;
+
+yocto.
+
 【同源】attoampere, attofarad, attogram, attoscience, attosecond, attotesla
 【词根】词缀：auc-
 来源及含义：Greek: increase, growth
@@ -2692,10 +3540,14 @@ yocto.
 【同源】audace, Audaces fortuna iuvat, audacious, audaciously, audaciousness, audacity
 【词根】词缀：audio-, aud-, audi-, audit-
 来源及含义：Latin: hearing, listening, perception of sounds
-【相关】
-Related "hear, hearing; listen, listening" units: 
-acous-;
-ausculto-.
+【相关】
+
+Related "hear, hearing; listen, listening" units: 
+
+acous-;
+
+ausculto-.
+
 【同源】Audi alteram partem, audibility, audible, audibleness, audibly, audiclave
 【词根】词缀：aug-, auc-, auct-, auxano-, auxi-,  aux-, auxo-
 来源及含义：Greek > Latin: to increase, to grow; growth
@@ -2703,17 +3555,28 @@ ausculto-.
 【词根】词缀：augur-
 来源及含义：Latin: diviner, soothsayer; a member of the college of priests in Rome, who foretold the future; in ancient Rome, a priest who foretold events by interpreting omens
 【相关】Related to augerer, "to increase".
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "divination, diviner; seer, soothsayer, prophecy, prophesy, prophet":  
-auspic-;
-fa-, fate;
-Fates in action;
-futur-;
--mancy;
-omen;
--phemia;
-sorc-, sorcery;
-vati-.
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "divination, diviner; seer, soothsayer, prophecy, prophesy, prophet":  
+
+auspic-;
+
+fa-, fate;
+
+Fates in action;
+
+futur-;
+
+-mancy;
+
+omen;
+
+-phemia;
+
+sorc-, sorcery;
+
+vati-.
+
 【同源】auger, augur, augural, augurate, auguration, augured47 48 49 50 51 52  
 
 
@@ -2724,23 +3587,35 @@ vati-.
 【同源】aulete, auletic
 【词根】词缀：aulo-, aul-
 来源及含义：Greek: hollow way, tube, pipe; any instrument; such as, a flute
-【相关】
+【相关】
+
 A cross reference of word units that are related, directly and/or indirectly, with "tube, pipe":
-can-, cann-;
-duc-, -duct (to lead, leading);
-fistul-;
-siphon-;
-syringo-;
-tub-.
+can-, cann-;
+
+duc-, -duct (to lead, leading);
+
+fistul-;
+
+siphon-;
+
+syringo-;
+
+tub-.
+
 【同源】aulophobia, aulophyte, aulophytic, aulosophile, aulostomatous, aulot
 【词根】词缀：auri-, auriculo-, auricul-, auro-, aur-
 来源及含义：Latin: ear
 【相关】Don't confuse this word family with another auri- unit which means "gold".
-【相关】
-Related "ear" word families: 
-myring-;
-oto-;
-tympano- (drum, stretched membrane).
+【相关】
+
+Related "ear" word families: 
+
+myring-;
+
+oto-;
+
+tympano- (drum, stretched membrane).
+
 【同源】aural, auricle, auricula, auricular, auriculare, auricularly
 【词根】词缀：auri-, auro-, aur-
 来源及含义：Latin: gold, yellow
@@ -2751,34 +3626,59 @@ tympano- (drum, stretched membrane).
 【同源】Aurora Australis or aurora australis, Aurora Borealis, aurora gating, aurora polaris, Aurora, auroral
 【词根】词缀：ausculto-, auscult-
 来源及含义：Latin: listen, hear
-【相关】
-Related "hear, hearing; listen, listening" units: 
-acous-;
-audio-.
+【相关】
+
+Related "hear, hearing; listen, listening" units: 
+
+acous-;
+
+audio-.
+
 【同源】auscultate, auscultated, auscultation, auscultator, auscultatory, auscultatory sounds
 【词根】词缀：auspic-, auspec-
 来源及含义：Latin: to look, to observe in order to make a prediction; to see omens; from auspex [genitive form auspicis] avi-, stem of avis, "bird" plus -spex, "observer", from specere
-【相关】
-Cross references of word families that are related directly, or indirectly, to: "divination, diviner; seer, soothsayer, prophecy, prophesy, prophet":  
-augur-;
-fa-, fate;
-Fates in action;
-futur-;
--mancy;
-omen;
--phemia;
-sorc-, sorcery;
-vati-.
-
-
-A cross reference of other word family units that are related directly, or indirectly, to: "chance, luck, fate": 
-aleato-;
-cad-;
-fortu-;
--mancy;
-serendipity;
-sorc-;
-temer-;
+【相关】
+
+Cross references of word families that are related directly, or indirectly, to: "divination, diviner; seer, soothsayer, prophecy, prophesy, prophet":  
+
+augur-;
+
+fa-, fate;
+
+Fates in action;
+
+futur-;
+
+-mancy;
+
+omen;
+
+-phemia;
+
+sorc-, sorcery;
+
+vati-.
+
+
+
+
+
+A cross reference of other word family units that are related directly, or indirectly, to: "chance, luck, fate": 
+
+aleato-;
+
+cad-;
+
+fortu-;
+
+-mancy;
+
+serendipity;
+
+sorc-;
+
+temer-;
+
 tycho-.
 【同源】auspex, auspicate, auspicately, auspication, auspicator, auspicatory
 【词根】词缀：auster-
@@ -2786,20 +3686,33 @@ tycho-.
 【同源】anti-austerity protest, austere, austerely, austereness, austerity, austerity
 【词根】词缀：austro-, austr-, austral-, auster-
 来源及含义：Latin: south, south wind, southern
-【相关】
+【相关】
+
 Cross references of word groups that are related, directly or indirectly, to: "air, wind":
-aello-;
-aeolo-;
-aero-;
-anemo-;
-atmo-;
-flat-, flatu-;
-phys-;
-pneo-, -pnea;
-pneumato-;
-turb-;
-vent-;
-zephyro-.
+aello-;
+
+aeolo-;
+
+aero-;
+
+anemo-;
+
+atmo-;
+
+flat-, flatu-;
+
+phys-;
+
+pneo-, -pnea;
+
+pneumato-;
+
+turb-;
+
+vent-;
+
+zephyro-.
+
 【同源】Archipel Indo-Australien, aurora australis, Aurora Australis or aurora australis, Aurora, Auster, austral
 【词根】词缀：authentic-, authent-
 来源及含义：Greek authentikos > Latin authenticus: original, genuine, authoritative; one who does something himself or herself
@@ -2813,18 +3726,30 @@ zephyro-.
 【同源】authority, authorization
 【词根】词缀：auto-, aut-
 来源及含义：Greek: self, same, spontaneous; directed from within
-【相关】
-Inter-related cross references, directly or indirectly, involving word units dealing with "equal, identical, same, similar":
-emul-;
-equ-, equi-;
-homeo-;
-homo-;
-iso-;
-pari-;
-peer;
-rhomb-;
-syn-;
-tauto-.
+【相关】
+
+Inter-related cross references, directly or indirectly, involving word units dealing with "equal, identical, same, similar":
+
+emul-;
+
+equ-, equi-;
+
+homeo-;
+
+homo-;
+
+iso-;
+
+pari-;
+
+peer;
+
+rhomb-;
+
+syn-;
+
+tauto-.
+
 【同源】ambulatory automatism, autacoid, autacoidal, autaesthesy, autagonistophilia, autantonym
 【词根】词缀：avari-
 来源及含义：Latin: greed, greedy

@@ -1,37 +1,39 @@
 import re
 import json
-#将爬取的词根单独提取出来以用作搜索
-f = open(r"D:/Project/Root_Diction/a.txt", 'r', encoding='utf-8')
-lines = f.readlines()
-RD = []
-for line3 in lines:
-    if line3[0:4] == "【词根】":
-        result_list = re.findall('[a-zA-Z]+', line3)
-        if len(result_list) and result_list[0].startswith('a'):
-            # print(result_list)
-            RD += list(set(result_list))
 
-# print(RD)
-f.close()
+class DB:
+    def __init__(self, Root, text, num):
+        self.Root = Root         #词根
+        self.text = text         #单词
+        self.num = num           #遍历首字母
 
-def readtxt():
-    file = open('test.txt', 'r')
-    js = file.read()
-    dic = json.loads(js)
-    print(dic)
-    return dic
-    file.close()
-#用词根搜索单词的正则匹配函数
-def fuzzyfinder(user_input, collection):
-    suggestions = []
-    pattern = '.*'.join(user_input)  # 转换 'abc' to 'a.*b.*c'
-    regex = re.compile(pattern)
-    for item in collection:
-        match = regex.search(item)
-        if match:
-            suggestions.append(item)
-    return suggestions
-# print(fuzzyfinder('ac',RD))
+    # 读取单词
+    def readtxt(self):
+        file = open('testDiction.txt', 'r')
+        js = file.read()
+        dic = json.loads(js)
+        print(dic)
+        return dic
+        file.close()
 
-# dict = readtxt()
-print()
+    # 将爬取的词根单独提取出来以用作搜索
+    # def Root_Diction(self):
+    #
+
+    # 用词根搜索单词的正则匹配函数（模糊查询）
+    # def fuzzyfinder(self):
+    #     suggestions = []
+    #     pattern = '.*'.join(self.Root)  # 转换 'abc' to 'a.*b.*c'
+    #     regex = re.compile(pattern)
+    #     for item in self.text:
+    #         match = regex.search(item)
+    #         if match:
+    #             suggestions.append(item)
+    #     return suggestions
+    # print(fuzzyfinder())
+    # dict = readtxt()
+
+
+
+
+

@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5327862b-c0c6-4a71-9aa7-7e00e167a096" name="默认更改列表" comment="test  1.2">
-      <change afterPath="$PROJECT_DIR$/data/1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2013061.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/20146.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2014年12月英语四级考试真题及答案(第1套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2014年12月英语四级考试真题及答案(第2套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2014年12月英语四级考试真题及答案(第3套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2014年6月大学英语四级考试真题及答案(第2套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2014年6月大学英语四级考试真题及答案(第3套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年12月英语四级考试真题(第1套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年12月英语四级考试真题(第2套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年12月英语四级考试真题(第3套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年6月英语四级考试真题及答案(第1套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年6月英语四级考试真题及答案(第2套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2015年6月英语四级考试真题及答案(第3套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2016年6月大学英语四级真题第一套.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2016年6月大学英语四级真题第三套.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2016年6月大学英语四级真题第二套.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2017年6月英语四级考试真题及答案解析版(第1套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2017年6月英语四级考试真题及答案解析版(第2套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2017年6月英语四级考试真题及答案解析版(第3套).docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/26.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/3.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/5.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/6.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getRoot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testDiction.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2013061.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/20146.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2014年12月英语四级考试真题及答案(第1套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2014年12月英语四级考试真题及答案(第2套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2014年12月英语四级考试真题及答案(第3套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2014年6月大学英语四级考试真题及答案(第2套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2014年6月大学英语四级考试真题及答案(第3套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年12月英语四级考试真题(第1套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年12月英语四级考试真题(第2套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年12月英语四级考试真题(第3套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年6月英语四级考试真题及答案(第1套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年6月英语四级考试真题及答案(第2套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2015年6月英语四级考试真题及答案(第3套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2016年6月大学英语四级真题第一套.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2016年6月大学英语四级真题第三套.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2016年6月大学英语四级真题第二套.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2017年6月英语四级考试真题及答案解析版(第1套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2017年6月英语四级考试真题及答案解析版(第2套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/2017年6月英语四级考试真题及答案解析版(第3套).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/26.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/3.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/4.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/5.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/真题数据源/6.docx" beforeDir="false" />
-    </list>
+    <list default="true" id="5327862b-c0c6-4a71-9aa7-7e00e167a096" name="默认更改列表" comment="test  1.2" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,19 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/getRoot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordtest.py">
+        <entry file="file://$PROJECT_DIR$/getDiction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="675">
               <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
                 <element signature="e#71#82#0" expanded="true" />
@@ -111,11 +42,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RootwordScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="405">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#51#66#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -333,7 +267,7 @@
       <workItem from="1557570051780" duration="663000" />
       <workItem from="1557638547412" duration="18795000" />
       <workItem from="1557707873133" duration="4014000" />
-      <workItem from="1557723457177" duration="3070000" />
+      <workItem from="1557723457177" duration="3646000" />
     </task>
     <task id="LOCAL-00001" summary="真题匹配">
       <created>1557641021387</created>
@@ -360,7 +294,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35880000" />
+    <option name="totallyTimeSpent" value="36456000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,14 +306,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15440582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15440582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.43339255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.23445825" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,13 +387,24 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/真题数据源/test.py" />
-    <entry file="file://$PROJECT_DIR$/RootwordScript.py">
+    <entry file="file://$PROJECT_DIR$/Root_Diction/a.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1136">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#51#66#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="53">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testDiction.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testRoot.txt">
+      <provider editor-type-id="LargeFileEditor" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getRoot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -472,26 +418,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Root_Diction/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="-270">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testDiction.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordtest.py">
+    <entry file="file://$PROJECT_DIR$/getDiction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="675">
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="e#71#82#0" expanded="true" />
@@ -499,10 +435,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getRoot.py">
+    <entry file="file://$PROJECT_DIR$/RootwordScript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#51#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

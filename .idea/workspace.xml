@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5327862b-c0c6-4a71-9aa7-7e00e167a096" name="默认更改列表" comment="test  1.2">
-      <change beforePath="$PROJECT_DIR$/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
-    </list>
+    <list default="true" id="5327862b-c0c6-4a71-9aa7-7e00e167a096" name="默认更改列表" comment="test  1.2" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="-297">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -56,7 +54,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="421" />
+    <option name="x" value="420" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -245,6 +243,7 @@
       <workItem from="1557707873133" duration="4014000" />
       <workItem from="1557723457177" duration="3646000" />
       <workItem from="1559314111851" duration="207000" />
+      <workItem from="1559314465555" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="真题匹配">
       <created>1557641021387</created>
@@ -271,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36663000" />
+    <option name="totallyTimeSpent" value="36678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,9 +283,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20129345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,8 +373,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testRoot.txt">
-      <provider editor-type-id="LargeFileEditor" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/getRoot.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -408,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="-297">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -419,9 +419,16 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Project$cigen.coverage" NAME="cigen Coverage Results" MODIFIED="1559737750752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$cigen.coverage" NAME="cigen Coverage Results" MODIFIED="1557555276309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Project$RootwordScript.coverage" NAME="RootwordScript Coverage Results" MODIFIED="1558278076853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$getRoot.coverage" NAME="getRoot Coverage Results" MODIFIED="1559306968463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$.coverage" NAME="栈的方式检测括号匹配 Coverage Results" MODIFIED="1559303920328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pygame/20161152105杨钦凯/第十二次作业" />
+=======
+    <SUITE FILE_PATH="coverage/Project$filter.coverage" NAME="filter Coverage Results" MODIFIED="1557750789875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$test.coverage" NAME="test Coverage Results" MODIFIED="1557639341193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/真题数据源" />
+    <SUITE FILE_PATH="coverage/Test_Project$filter.coverage" NAME="filter Coverage Results" MODIFIED="1559314141217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$getRoot.coverage" NAME="getRoot Coverage Results" MODIFIED="1557752398088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
     <SUITE FILE_PATH="coverage/Project$wordtest.coverage" NAME="wordtest Coverage Results" MODIFIED="1557657828445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1559312342315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project$filter.coverage" NAME="filter Coverage Results" MODIFIED="1559738942623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -433,6 +440,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/filter.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -471,6 +479,13 @@
               <folding>
                 <element signature="e#71#82#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-297">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
             </state>
           </provider>
         </entry>
@@ -517,18 +532,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Test-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test-Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -559,8 +574,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.main">
     <configuration name="danci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.filter">
+    <configuration name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
       <module name="软件工程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -672,11 +692,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.main" />
         <item itemvalue="Python.qianzhui" />
         <item itemvalue="Python.getDiction" />
         <item itemvalue="Python.danci" />
         <item itemvalue="Python.filter" />
+=======
+        <item itemvalue="Python.filter" />
+        <item itemvalue="Python.getRoot" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.wordtest" />
+        <item itemvalue="Python.test" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
       </list>
     </recent_temporary>
   </component>
@@ -696,6 +724,7 @@
       <workItem from="1557570051780" duration="663000" />
       <workItem from="1557638547412" duration="18795000" />
       <workItem from="1557707873133" duration="4014000" />
+<<<<<<< HEAD
       <workItem from="1557723457177" duration="4238000" />
       <workItem from="1558008579041" duration="5276000" />
       <workItem from="1558021690024" duration="965000" />
@@ -703,6 +732,11 @@
       <workItem from="1559301566434" duration="12726000" />
       <workItem from="1559558136347" duration="3384000" />
       <workItem from="1559728032394" duration="15255000" />
+=======
+      <workItem from="1557723457177" duration="3646000" />
+      <workItem from="1559314111851" duration="207000" />
+      <workItem from="1559314465555" duration="15000" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
     </task>
     <task id="LOCAL-00001" summary="真题匹配">
       <created>1557641021387</created>
@@ -736,7 +770,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="75870000" />
+=======
+    <option name="totallyTimeSpent" value="36678000" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,12 +788,21 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49731183" visible="true" weight="0.16895716" />
       <window_info id="Structure" order="1" sideWeight="0.50268817" side_tool="true" weight="0.16895716" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.339254" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20129345" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" weight="0.23445825" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -852,11 +899,15 @@
     <entry file="file://H:/Gitclone/Test-Project/getDiction.py" />
     <entry file="file://H:/Gitclone/Test-Project/getRoot.py" />
     <entry file="file://$PROJECT_DIR$/testRoot.txt">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
+=======
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
       <provider editor-type-id="LargeFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/getRoot.py">
@@ -866,6 +917,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -894,6 +946,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/getDiction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
           <folding>
             <element signature="e#71#82#0" expanded="true" />
           </folding>
@@ -917,10 +976,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+=======
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+>>>>>>> 6d4a5b0dd2cfdd2c0ae80de9ae9d642c42830fea
         </state>
       </provider>
     </entry>

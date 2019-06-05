@@ -17,9 +17,9 @@ for i in range(len(num)):
             if len(result_list) and result_list[0].startswith(num[i]):
                 # print(result_list)
                 RD += list(set(result_list))
-    f = open("testRoot.txt", 'a')
+    f = open(".txt")
     f.write(str(RD))  # 将字符串写入文件中
     f.write("\n")  # 换行  
-    # print(RD)
+    print(RD)
 
     f.close()

@@ -14,7 +14,7 @@ DEMO
 # 流程
 ### 1.git和github的使用、Fork合并到主分支还不会的去看前面两个教程，地址：
 * 第一步git和GitHub使用：https://github.com/lnkDrop/work      （如果更换电脑，秘钥和邮箱、用户名都要重新配置）        
-* 第二步fork远程合并： https://github.com/lnkDrop/forktest（在这里练习怎么把文件合并到主分支）
+* 第二步fork远程合并： https://github.com/lnkDrop/forktest           
 
 
 ### 2.先fork主分支，然后把fork下来的库克隆到本地

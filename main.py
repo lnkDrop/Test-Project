@@ -107,16 +107,17 @@ while j < x:
         # 提取词根，用来对比
         # print(data1[j][0][0:len(qianzhui()[i])])
         if cigen()[i] in data1[j][0]:  # 匹配
-            print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]) )
-            print("  词根：" + str(shiyi()[i]))
-            for qian in range(len(qianzhui())):  # 提取前缀，对比
-                # print(qianzhui()[qian])
-                if qianzhui()[qian] == data1[j][0][0:len(qianzhui()[qian])]:
-                    print("  前缀: " + str(qiansy()[qian]))
-
-            for hou in range(len(houzhui())):  # 提取后缀，对比
-                # print(qianzhui()[qian])
-                if houzhui()[hou] == data1[j][0][-len(houzhui()[hou]):]:
-                    print("  后缀: " + str(housy()[hou]))
+            print(cigen()[i])
+            # print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]) )
+            # print("  词根：" + str(shiyi()[i]))
+            # for qian in range(len(qianzhui())):  # 提取前缀，对比
+            #     # print(qianzhui()[qian])
+            #     if qianzhui()[qian] == data1[j][0][0:len(qianzhui()[qian])]:
+            #         print("  前缀: " + str(qiansy()[qian]))
+            #
+            # for hou in range(len(houzhui())):  # 提取后缀，对比
+            #     # print(qianzhui()[qian])
+            #     if houzhui()[hou] == data1[j][0][-len(houzhui()[hou]):]:
+            #         print("  后缀: " + str(housy()[hou]))
 
     j += 1

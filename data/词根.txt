@@ -1,4 +1,5 @@
 vinc 胜，征服 
+
 vict 胜，征服 
 
 form 形式，格式，形成 
@@ -10,7 +11,9 @@ struct 建造
 od 路 
 
 bar 长木条，障碍 
+
 bal 长木条，障碍 
+
 ban 长木条，障碍 
 
 vi = via 路 
@@ -371,7 +374,7 @@ alit 养育，成长
 olesc 养育，成长 
 
 grat 感谢
-gr ac 感谢
+grac 感谢
 gree 感谢 
 
 hor 怕 
@@ -433,12 +436,11 @@ tempor 时间
 
 light 光，轻，愉快 
 
-
 draw 画 
 
 pict 画，图片，照片 
-paint 画，图片，照片 
 
+paint 画，图片，照片 
 
 dit 给 
 don 给 

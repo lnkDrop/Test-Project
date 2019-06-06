@@ -13,8 +13,8 @@ num = azlist()
 
 
 # 读取单词
-file = open('testDiction.txt', 'r')
-file2 = open('testRoot.txt', 'r')
+file = open('data/testDiction.txt', 'r')
+file2 = open('data/testRoot.txt', 'r')
 js = file.read()
 dic = json.loads(js)
 danci = []

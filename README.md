@@ -2,9 +2,12 @@ DEMO
 ===========================
 # 说明
 ### 词根前后缀匹配完成，执行main.py查看演示
+![](https://raw.githubusercontent.com/lnkDrop/Test-Project/master/data/demo1.png)
 ### 词频统计执行getDiction.py查看演示，暂未合并到main
-### 有好的数据源请更新到data文件夹内的三个文件中(词根，前缀，后缀)，注意格式是(词 空格 释义 换行)如图：
-![]()
+### 目前词根词缀数据源太少，有很多次依然匹配不到词根和词缀
+![](https://raw.githubusercontent.com/lnkDrop/Test-Project/master/data/demo2.png)
+### 所以有新的数据请更新到data文件夹内的三个文件中(词根，前缀，后缀).txt，注意重复，格式是(词 空格 释义 换行)如图：
+![](https://raw.githubusercontent.com/lnkDrop/Test-Project/master/data/gs.png)
 
 --------------------
 # 任务
@@ -21,7 +24,7 @@ DEMO
 ### 2.先fork主分支，然后把fork下来的库克隆到本地
 ### 3.在主分支的《成员文件》这个文件夹里新建文件夹，用你的项目名学号姓名来命名，如《需求分析20161111111张三》，然后把你的演示文件、材料什么的放进去
 ### 4.远程合并(这一步注意看fork远程合并的第三条、分支内容的修改和删除，把你的fork库和主仓库同步更新以后再上传，不然会报错)
-### 5.操作完成提醒我同意你的合并请求，大功告成~~~
+### 5.操作完成提醒我同意你的合并请求，大功告成
 
 
 

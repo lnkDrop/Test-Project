@@ -3,7 +3,7 @@
 
 
 import csv
-
+import unittest
 f1 = csv.reader(open("data/四六级单词.csv", "r"))  # 读取四六级单词文件obj f1
 
 # print(rd)
@@ -120,3 +120,13 @@ while j < x:
                     print("  后缀: " + str(housy()[hou]))
 
     j += 1
+
+if __name__ == "__main__":
+    # 构造测试集
+    suite = unittest.TestSuite()
+    suite.addTest(cigen("testSize"))
+    suite.addTest(danci("testResize"))
+
+    # 执行测试
+    runner = unittest.TextTestRunner()
+    runner.run(suite)

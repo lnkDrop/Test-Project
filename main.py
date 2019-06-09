@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-
-
 import csv
 import unittest
 f1 = csv.reader(open("data/四六级单词.csv", "r"))  # 读取四六级单词文件obj f1
@@ -14,85 +12,160 @@ data1 = []
 def cigen():
     data = []
     f = open('data/词根.txt', 'r')  # 读取词根文件
-    rd = f.readline()  # 逐行读取词根
-    for cigen in range(617):
+    # 逐行读取词根
+    for i in range(1264):
         # print(rd.split())
+        rd = f.readline()
+        
         if rd.split() != []:
             # print(rd.split()[0])  # 提取词根单词用于匹配(不包含释义)
             data.append(rd.split()[0])
-        rd = f.readline()
     f.close()
+
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y])) > len(str(data[maxIndex])):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+
     return data
 
 
+cigen = cigen()
+
+# print(cigen())
+
+
 def shiyi():
-    shiyi = []
+    data = []
     f = open('data/词根.txt', 'r')  # 读取词根文件
-    rd = f.readline()  # 逐行读取词根
-    for cigen in range(617):
+    for i in range(1264):
         # print(rd.split())
+        rd = f.readline()  # 逐行读取词根
+        rd = rd.strip('\n')  #去换行符
         if rd.split() != []:
-            shiyi.append(rd)  # 词根带释义
-        rd = f.readline()
+            data.append(rd)  # 词根带释义
     f.close()
-    return shiyi
+
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y]).split()[0]) > len(
+                    str(data[maxIndex]).split()[0]):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+    # print(data)
+    return data
+
+
+shiyi = shiyi()
+# print(shiyi())
 
 
 def qianzhui():
-    qianzhui = []
+    data = []
     f = open("data/前缀.txt", 'r')
-    rd = f.readline()
-    for cigen in range(276):
+
+    for i in range(323):
+        rd = f.readline()
+        rd = rd.strip('\n')
         # print(rd.split())
         if rd.split() != []:
             # print(rd.split()[0])  # 提取前缀用于匹配(不包含释义)
-            qianzhui.append(rd.split()[0])
-        rd = f.readline()
+            data.append(rd.split()[0])
+
     f.close()
-    return qianzhui
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y]).split()[0]) > len(
+                    str(data[maxIndex]).split()[0]):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+    return data
+
+
+qianzhui = qianzhui()
 
 
 def qiansy():
-    shiyi = []
+    data = []
     f = open('data/前缀.txt', 'r')  # 读取前缀文件
-    rd = f.readline()  # 逐行读取前缀
-    for cigen in range(276):
+    # 逐行读取前缀
+    for i in range(323):
+        rd = f.readline()
+        rd = rd.strip('\n')
         # print(rd.split())
         if rd.split() != []:
-            shiyi.append(rd)  # 前缀带释义
-        rd = f.readline()
+            data.append(rd)  # 前缀带释义
+
     f.close()
-    return shiyi
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y]).split()[0]) > len(
+                    str(data[maxIndex]).split()[0]):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+    return data
+
+
+qiansy = qiansy()
 
 
 def houzhui():
-    houzhui = []
+    data = []
     f = open("data/后缀.txt", 'r')
-    rd = f.readline()
-    for cigen in range(377):
+
+    for i in range(381):
+        rd = f.readline()
+        rd = rd.strip('\n')
         # print(rd.split())
         if rd.split() != []:
             # print(rd.split()[0])  # 提取后缀用于匹配(不包含释义)
-            houzhui.append(rd.split()[0])
-        rd = f.readline()
+            data.append(rd.split()[0])
+
     f.close()
-    return houzhui
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y]).split()[0]) > len(
+                    str(data[maxIndex]).split()[0]):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+    return data
+
+
+houzhui = houzhui()
 
 
 def housy():
-    houzhui = []
+    data = []
     f = open("data/后缀.txt", 'r')
-    rd = f.readline()
-    for cigen in range(377):
+
+    for i in range(381):
+        rd = f.readline()
+        rd = rd.strip('\n')
         # print(rd.split())
         if rd.split() != []:
             # print(rd.split()[0])  # 提取后缀用于匹配(不包含释义)
-            houzhui.append(rd)
-        rd = f.readline()
+            data.append(rd)
+
     f.close()
-    return houzhui
+    for x in range(len(data) - 1):
+        maxIndex = x
+        for y in range(x + 1, len(data)):
+            if len(str(data[y]).split()[0]) > len(
+                    str(data[maxIndex]).split()[0]):
+                maxIndex = y
+        data[x], data[maxIndex] = data[maxIndex], data[x]
+    return data
 
 
+housy = housy()
+# print(cigen)
+# print(shiyi)
 # 逐行读取单词
 
 for danci in f1:
@@ -102,31 +175,28 @@ for danci in f1:
 j = 0
 while j < x:
     # print(data1[j][0],data1[j][1])       #每次循环提取一条单词记录
-    for i in range(300):
+    for i in range(len(cigen)-1):
         # print(cigen())
         # 提取词根，用来对比
-        # print(data1[j][0][0:len(qianzhui()[i])])
-        if cigen()[i] in data1[j][0]:  # 匹配
-            print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]) )
-            print("  词根：" + str(shiyi()[i]))
-            for qian in range(len(qianzhui())):  # 提取前缀，对比
-                # print(qianzhui()[qian])
-                if qianzhui()[qian] == data1[j][0][0:len(qianzhui()[qian])]:
-                    print("  前缀: " + str(qiansy()[qian]))
+        # print(data1[j][0])
+        # print(cigen()[i])
+        if cigen[i] in data1[j][0]:  # 匹配
+            print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]))
+            print("  词根："  + str(shiyi[i]))
 
-            for hou in range(len(houzhui())):  # 提取后缀，对比
+            for qian in range(len(qianzhui)-1):  # 提取前缀，对比
                 # print(qianzhui()[qian])
-                if houzhui()[hou] == data1[j][0][-len(houzhui()[hou]):]:
-                    print("  后缀: " + str(housy()[hou]))
+                if qianzhui[qian] == data1[j][0][0:len(qianzhui[qian])] and qianzhui[qian] not in cigen[i]:
+                    print("  前缀: " + str(qiansy[qian]))
+                    break
+
+            for hou in range(len(houzhui)-1):  # 提取后缀，对比
+                # print(qianzhui()[qian])
+                if houzhui[hou] == data1[j][0][-len(houzhui[hou]):] and houzhui[hou] not in cigen[i]:
+                    print("  后缀: " + str(housy[hou]))
+                    break
+            print()
+            j += 1
+            continue
 
     j += 1
-
-if __name__ == "__main__":
-    # 构造测试集
-    suite = unittest.TestSuite()
-    suite.addTest(cigen("testSize"))
-    suite.addTest(danci("testResize"))
-
-    # 执行测试
-    runner = unittest.TextTestRunner()
-    runner.run(suite)

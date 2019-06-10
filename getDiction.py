@@ -10,7 +10,11 @@ import json
 def getword():
     dict = {}
     file_path = []
+<<<<<<< HEAD
     path = r"D:/Project/data(真题)/"
+=======
+    path = r"D:/Project/data(真题)"
+>>>>>>> 477e55f2c395db34b6f8d28e83fbf16880c8a4ef
     for filename in os.listdir(path):  # 获取path下所有文件的路径
         file_path.append((os.path.join(path, filename)))
     for i in range(len(file_path)):

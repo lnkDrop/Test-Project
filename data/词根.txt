@@ -524,13 +524,11 @@ alit 养育，成长
 olesc 养育，成长 
 
 grat 感谢
-<<<<<<< HEAD
-grac 感谢
-=======
 
 grac 感谢
 
->>>>>>> 477e55f2c395db34b6f8d28e83fbf16880c8a4ef
+grac 感谢
+
 gree 感谢 
 
 hor 怕 

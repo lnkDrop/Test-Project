@@ -1,3 +1,4 @@
+#排序算法比较
 a = [45,78,12,3,6,78,415,1,5,7]
 
 # def countingSort(nums):  #计数排序
@@ -21,14 +22,3 @@ def selectionSort(nums):  #插入排序
                 minIndex = j  
         nums[i], nums[minIndex] = nums[minIndex], nums[i] # 把最小数交换到前面
     return nums
-print(selectionSort(a))
-
-for x in range(len(data)-1):
-    data1 = str(data[x])
-    data2 = str(data[x+1])
-    maxIndex = i
-    for j in range(i + 1, len(data)):
-        if len(data1.split()[0]) > len(data2.split()[0]):
-            maxIndex = j
-    data[i], data[minIndex] = data[minIndex], data[i]
-return data

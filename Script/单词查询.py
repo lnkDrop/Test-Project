@@ -3,7 +3,7 @@
 import re
 from string import punctuation
 
-text = open('find.txt')       #打开文件
+text = open('data/find.txt')       #打开文件
 text_list = text.readlines()  #读起所有行
 # 删除标点及其他常用符号
 # punctuation = r"""!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"""

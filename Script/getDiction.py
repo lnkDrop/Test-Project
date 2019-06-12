@@ -21,9 +21,13 @@ def getword():
             for key in result_list:
                 dict[key] = dict.get(key, 0) + 1  # 把出现的单词放入字典，按出现次数进行词频统计
 
-    # dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)#字典按值排序（转为元组）
-    print(dict)  # 查看词频
-    print('总共有' + str(len(dict)) + '个单词')  # 查看单词总数
+    dict = sorted(dict.items(), key=lambda x: x[1], reverse=True)#字典按值排序（转为元组）
+    # print(dict)  # 查看词频
+    # print('总共有' + str(len(dict)) + '个单词')  # 查看单词总数
+        
     return dict
 wd = getword()
+for i in wd:
+    if len(i[0])>2:
+        print(i[0])
 

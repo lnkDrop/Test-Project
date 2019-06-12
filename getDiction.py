@@ -25,16 +25,5 @@ def getword():
     print(dict)  # 查看词频
     print('总共有' + str(len(dict)) + '个单词')  # 查看单词总数
     return dict
+wd = getword()
 
-
-# 以json格式存入test.txt
-def save():
-    dict = getword()
-    js = json.dumps(dict)
-    file = open('testDiction.txt', 'w')
-    file.write(js)
-    file.close()
-
-
-getword()
-# save()

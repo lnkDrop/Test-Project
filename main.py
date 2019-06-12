@@ -201,13 +201,13 @@ while j < x:
 
             for qian in range(len(qianzhui)):  # 提取前缀，对比
                 # print(qianzhui()[qian])
-                if qianzhui[qian] == data1[j][0][0:len(qianzhui[qian])] and qianzhui[qian] not in cigen[i]:
+                if qianzhui[qian] == data1[j][0][0:len(qianzhui[qian])] and qianzhui[qian] not in cigen[i] and cigen[i] not in qianzhui[qian]:
                     print("  前缀: " + str(qiansy[qian]))
                     break
 
             for hou in range(len(houzhui)):  # 提取后缀，对比
                 # print(qianzhui()[qian])
-                if houzhui[hou] == data1[j][0][-len(houzhui[hou]):] and houzhui[hou] not in cigen[i]:
+                if houzhui[hou] == data1[j][0][-len(houzhui[hou]):] and houzhui[hou] not in cigen[i] and cigen[i] not in houzhui[hou]:
                     print("  后缀: " + str(housy[hou]))
                     break
             print()

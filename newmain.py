@@ -218,36 +218,36 @@ b = []
 c = []
 
 
-while j < x:
-    # print(data1[j][0],data1[j][1])       #每次循环提取一条单词记录
-    for i in range(len(cigen)):
-        # print(cigen()) 
-        # 提取词根，用来对比
-        # print(data1[j][0])
-        # print(cigen()[i])
-        if cigen[i] in data1[j][0]:  # 匹配
-            # print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]))
-            # print("  词根："  + str(shiyi[i]))
-            a.append(data1[j][0])
-            b.append(shiyi[i])
-            c.append(data1[j][1])
-            j += 1
-            continue
-    j+=1
-df1=pd.DataFrame({'单词':a,'词根':b,'释义':c})
-# df1.to_csv('data/cigen.csv',encoding='utf_8_sig')
-        
-# while j < x:           
-#     for qian in range(len(qianzhui)):  # 提取前缀，对比
-#         if qianzhui[qian] == (data1[j][0])[0:len(qianzhui[qian])]:
-#             c.append(qiansy[qian])
+# while j < x:
+#     # print(data1[j][0],data1[j][1])       #每次循环提取一条单词记录
+#     for i in range(len(cigen)):
+#         # print(cigen()) 
+#         # 提取词根，用来对比
+#         # print(data1[j][0])
+#         # print(cigen()[i])
+#         if cigen[i] in data1[j][0]:  # 匹配
+#             # print("单词: " + str(data1[j][0]) + " " + str(data1[j][1]))
+#             # print("  词根："  + str(shiyi[i]))
 #             a.append(data1[j][0])
-#             b.append(data1[j][1])
+#             b.append(shiyi[i])
+#             c.append(data1[j][1])
 #             j += 1
 #             continue
-#     j += 1
+#     j+=1
+# df1=pd.DataFrame({'单词':a,'词根':b,'释义':c})
+# df1.to_csv('data/cigen.csv',encoding='utf_8_sig')
+        
+while j < x:           
+    for qian in range(len(qianzhui)):  # 提取前缀，对比
+        if qianzhui[qian] == (data1[j][0])[0:len(qianzhui[qian])]:
+            c.append(qiansy[qian])
+            a.append(data1[j][0])
+            b.append(data1[j][1])
+            j += 1
+            continue
+    j += 1
     
-# df1=pd.DataFrame({'单词':a,'前缀':c,'单词释义':b})
+df1=pd.DataFrame({'单词':a,'前缀':c,'单词释义':b})
 # df1.to_csv('data/qianzhui.csv',encoding='utf_8_sig')
 
 # while j < x:
